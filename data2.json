@@ -1,0 +1,31 @@
+{
+  "version": "1.0.2",
+  "name": "Jeu Media",
+  "questions": [
+    {
+      "text": "De 2000 a 2012, Patrick Ferla recoit a son micro des ecrivains, musiciens et autres personnalités culturelles. Quel est le nom de son émission?",
+      "answers": [
+        {
+          "text": "Petit déjeuner",
+          "playurn": "urn:rts:video:7564334",
+          "image": "",
+          "isTrue": "true"
+        },
+        {
+          "title": "Entracte",
+          "playurn": "urn:rts:video:5836324",
+          "isTrue": "false"
+        },
+        {
+          "title": "Entre nous soit dit",
+          "playurn": "urn:rts:video:5529828",
+          "isTrue": "false"
+        }
+      ],
+      "details": {
+        "title": "Patrick Ferla",
+        "archiveQuery": "/rts-archives-public-api/archives?query=patrick%20ferla"
+      }
+    }
+  ]
+}

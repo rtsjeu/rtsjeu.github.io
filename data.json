@@ -201,6 +201,29 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "text": "Quelle est l'ambiance de la série Station Horizon?",
+      "answers": [
+        {
+          "text": "Country helvétique et parfums d'Amérique",
+          "playUrn": "urn:rts:video:6500397",
+          "image": "",
+          "isCorrect": true
+        },
+        {
+          "text": "Musique classique et châteaux",
+          "playUrn": "urn:rts:video:6500397",
+          "image": "",
+          "isCorrect": false
+        },
+        {
+          "text": "Hip hop et culture de rue",
+          "playUrn": "urn:rts:video:6500397",
+          "image": "",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }

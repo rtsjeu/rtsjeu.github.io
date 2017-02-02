@@ -1,0 +1,78 @@
+{
+  "properties": {
+    "version": {
+      "type": "string",
+      "description": "Version string",
+      "default": "1.0"
+    },
+    "name": {
+      "type": "string",
+      "description": "Database name",
+      "default": "Le Jeu"
+    },
+    "questions": {
+      "title": "Questions",
+      "type": "array",
+      "items": {
+        "title": "Questions",
+        "type": "object",
+        "properties": {
+          "text": {
+            "type": "string",
+            "description": "Texte de la question",
+            "minLength": 10,
+            "default": ""
+          },
+          "answers": {
+            "type": "array",
+            "format": "table",
+            "title": "Answers",
+            "items": {
+              "type": "object",
+              "title": "Answer",
+              "properties": {
+                "text": {
+                  "type": "string",
+                  "description": "Texte de la reponse",
+                  "minLength": 10,
+                  "default": ""
+                },
+                "playUrn": {
+                  "type": "string",
+                  "description": "Full play URN",
+                  "default": "urn:rts:video:"
+                },
+                "image": {
+                  "type": "string",
+                  "description": "Image URL",
+                  "default": ""
+                },
+                "isTrue": {
+                  "type": "boolean",
+                  "description": "True when answer is valid"
+                }
+              }
+            }
+          },
+          "details": {
+            "type": "object",
+            "title": "Detail",
+            "properties": {
+              "title": {
+                "type": "string",
+                "description": "Titre a afficher en haut de la liste de detail",
+                "minLength": 10,
+                "default": ""
+              },
+              "archiveQuery": {
+                "type": "string",
+                "description": "Texte de la query in archive",
+                "default": "/rts-archives-public-api/archives?query=patrick%20ferla"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

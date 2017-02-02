@@ -1,0 +1,5616 @@
+{
+  "version": "1486047463.37",
+  "name": "lejeu",
+  "questions": [
+    {
+      "text": "Quel \u00e9tait le surnom donn\u00e9 par Marie-Th\u00e9r\u00e8se Porchet \u00e0 la pr\u00e9sentatrice vedette Ma\u00eftena Biraben ?",
+      "answers": [
+        {
+          "text": "Ma\u00efzena",
+          "isCorrect": true
+        },
+        {
+          "text": "Met-toi l\u00e0",
+          "isCorrect": false
+        },
+        {
+          "text": "Ra\u00efta",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle \u00e9mission d\u00e9voile les coulisses de la RTS ?",
+      "answers": [
+        {
+          "text": "Grand Angle",
+          "isCorrect": true
+        },
+        {
+          "text": "Au placard",
+          "isCorrect": false
+        },
+        {
+          "text": "Bas les masques",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Comment s'appelait la s\u00e9rie imagin\u00e9e par les humoristes Cuche et Barbezat ?",
+      "answers": [
+        {
+          "text": "La famille Barbecuche",
+          "isCorrect": true
+        },
+        {
+          "text": "La famille Berclaz",
+          "isCorrect": false
+        },
+        {
+          "text": "La petite famille",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "La Cha\u00eene du Bonheur s'est offert les services d'un animateur b\u00e9n\u00e9vole, fid\u00e8le depuis 1977. Qui est-ce ?",
+      "answers": [
+        {
+          "text": "Jean-Marc Richard",
+          "isCorrect": true
+        },
+        {
+          "text": "Lucas Thorens",
+          "isCorrect": false
+        },
+        {
+          "text": "Adrien Zerbini",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle \u00e9mission radio d'information et de d\u00e9bat s'est impos\u00e9e en direct sur La 1\u00e8re depuis plus de 20 ans ?",
+      "answers": [
+        {
+          "text": "Forum",
+          "isCorrect": true
+        },
+        {
+          "text": "Arena",
+          "isCorrect": false
+        },
+        {
+          "text": "18-19",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle est la raison de la cr\u00e9ation en 1931 de la Soci\u00e9t\u00e9 Suisse de Radiodiffusion ?",
+      "answers": [
+        {
+          "text": "Pour mettre de l'ordre parmi une multitude de concessionnaires radio",
+          "isCorrect": true
+        },
+        {
+          "text": "Aucune radio n'existait sur le territoire suisse",
+          "isCorrect": false
+        },
+        {
+          "text": "La diffusion radio \u00e9tait assur\u00e9e depuis la France",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle est la plus jeune cha\u00eene de radio de la RTS, connue pour sa contribution \u00e0 la promotion des auteurs compositeurs et interpr\u00e8tes suisses?",
+      "answers": [
+        {
+          "text": "Option musique",
+          "isCorrect": true
+        },
+        {
+          "text": "Lausanne FM",
+          "isCorrect": false
+        },
+        {
+          "text": "Suisse 4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel animateur radio a interpr\u00e9t\u00e9 Mr. Balloon, Ma\u00eetre Cha-Pong ou encore Gilbert, fan de tuning, sur Couleur 3 ?",
+      "answers": [
+        {
+          "text": "St\u00e9phane Laurenceau",
+          "isCorrect": true
+        },
+        {
+          "text": "Vincent Veillon",
+          "isCorrect": false
+        },
+        {
+          "text": "Duja",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Qu\u2019est-il arriv\u00e9 \u00e0 l\u2019\u00e9mission la Ligne du coeur sur La Premi\u00e8re en 2011?",
+      "answers": [
+        {
+          "text": "Alain Maillard succ\u00e8de \u00e0 Etienne Fernagut",
+          "isCorrect": true
+        },
+        {
+          "text": "L\u2019\u00e9mission enregistre son millioni\u00e8me appel",
+          "isCorrect": false
+        },
+        {
+          "text": "Jean-Marc Richard rejoint Etienne Fernagut pour lui donner la r\u00e9plique",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dans quelle \u00e9mission de radio, le diacre de Chastavel \"Jean-Gabriel Cu\u00e9nod\" est-il apparu pour la premi\u00e8re fois ?",
+      "answers": [
+        {
+          "text": "120 minutes",
+          "isCorrect": true
+        },
+        {
+          "text": "120 secondes",
+          "isCorrect": false
+        },
+        {
+          "text": "26 minutes",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pour quelle usine Gilles Surchat (26 minutes) a-t-il travaill\u00e9  ?",
+      "answers": [
+        {
+          "text": "Schaffter Pives",
+          "isCorrect": true
+        },
+        {
+          "text": "Martin Dattes",
+          "isCorrect": false
+        },
+        {
+          "text": "Dupont Noisettes",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Entre Chiens et Chats \u00e9tait une \u00e9mission RTS sur\u2026",
+      "answers": [
+        {
+          "text": "l'\u00e9lection du plus beau chien et chat de Suisse Romande",
+          "isCorrect": true
+        },
+        {
+          "text": "la formation canine et f\u00e9line",
+          "isCorrect": false
+        },
+        {
+          "text": "les solutions de pensions pour chiens et chats",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Les Entrevues de la Mort qui Tue c'est une s\u00e9rie d\u2019interview\u2026",
+      "answers": [
+        {
+          "text": "posthumes",
+          "isCorrect": true
+        },
+        {
+          "text": "visant \u00e0 d\u00e9stabiliser des personnalit\u00e9s romandes",
+          "isCorrect": false
+        },
+        {
+          "text": "avec des questions soporifiques",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Que remarquez-vous de particulier lorsque vous regardez la publicit\u00e9 sur les cha\u00eenes de TV fran\u00e7aises priv\u00e9es depuis la Suisse?",
+      "answers": [
+        {
+          "text": "Vous voyez des blocs de publicit\u00e9 suisse",
+          "isCorrect": true
+        },
+        {
+          "text": "Vous voyez les m\u00eames blocs de publicit\u00e9 que les t\u00e9l\u00e9spectateurs fran\u00e7ais",
+          "isCorrect": false
+        },
+        {
+          "text": "Vous voyez des interm\u00e8des musicaux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle web-s\u00e9rie a \u00e9t\u00e9 propos\u00e9e \u00e0 l\u2019occasion de la Coupe du monde de football en 2014\u00a0?",
+      "answers": [
+        {
+          "text": "Contre-pied",
+          "isCorrect": true
+        },
+        {
+          "text": "Hat-Trick",
+          "isCorrect": false
+        },
+        {
+          "text": "La passe de trois",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Comment s'appelait la cha\u00eene \u00e9ph\u00e9m\u00e8re qui a pr\u00e9c\u00e9d\u00e9 Couleur3?",
+      "answers": [
+        {
+          "text": "Egal 3",
+          "isCorrect": true
+        },
+        {
+          "text": "Radio Cerise",
+          "isCorrect": false
+        },
+        {
+          "text": "RSR3",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel pr\u00e9sentateur du TJ nourrit les fantasmes de la m\u00e9nag\u00e8re Marie-Th\u00e9r\u00e8se Porchet n\u00e9e Bertholet?",
+      "answers": [
+        {
+          "text": "Massimo Lorenzi",
+          "isCorrect": true
+        },
+        {
+          "text": "Darius Rochebin",
+          "isCorrect": false
+        },
+        {
+          "text": "David Rihs",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle \u00e9mission satirique de La 1\u00e8re entre 1989 et 2003 a vu d\u00e9filer beaucoup d'animateurs dont Lova Golovchiner, Jean-Charles ou le dessinateur Barrigue?",
+      "answers": [
+        {
+          "text": "Le Fond de la Corbeille",
+          "isCorrect": true
+        },
+        {
+          "text": "L'Agence Tous Risques",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Fond de la Tasse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Combien de temps apr\u00e8s sa sortie aux US et en quelle langue a \u00e9t\u00e9 diffus\u00e9e la saison 6 de Game of Throne sur RTS Un?",
+      "answers": [
+        {
+          "text": "Vingt-quatre heures apr\u00e8s sa sortie aux USA, en version sous-titr\u00e9e",
+          "isCorrect": true
+        },
+        {
+          "text": "Deux semaines apr\u00e8s sa sortie aux USA, en version sous-titr\u00e9e",
+          "isCorrect": false
+        },
+        {
+          "text": "Trente jours apr\u00e8s sa sortie aux USA, en version fran\u00e7aise",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Appell\u00e9e \"The Bold and The Beautiful\" en version originale, cette s\u00e9rie cartonne sans discontinuer sur la RTS  depuis 1987. Il s\u2019agit de \u2026?",
+      "answers": [
+        {
+          "text": "Top Models",
+          "isCorrect": true
+        },
+        {
+          "text": "Santa Barbara",
+          "isCorrect": false
+        },
+        {
+          "text": "La Clinique de l'Amour",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel \u00e9l\u00e9ment a pr\u00e9cipit\u00e9 la r\u00e9novation de la Tour TV \u00e0 Gen\u00e8ve en 2005 ?",
+      "answers": [
+        {
+          "text": "La d\u00e9couverte d'amiante dans les bureaux de la Tour",
+          "isCorrect": true
+        },
+        {
+          "text": "Des fuites d'eau au seizi\u00e8me \u00e9tage",
+          "isCorrect": false
+        },
+        {
+          "text": "La structure m\u00e9tallique de la Tour \u00e9tait rouill\u00e9e",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Le journaliste Xavier Colin est connu pour ses longues heures de direct durant\u2026",
+      "answers": [
+        {
+          "text": "Les attentats du 11 septembre 2001",
+          "isCorrect": true
+        },
+        {
+          "text": "Les attentats de Charlie Hebdo en janvier 2015",
+          "isCorrect": false
+        },
+        {
+          "text": "Les attentats de Paris en  novembre 2015",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A quel proc\u00e9d\u00e9 cin\u00e9matographique le nom de l'\u00e9mission radiophonique anim\u00e9e par Catherine Fatteberg sur l'histoire du cin\u00e9ma fait-il r\u00e9f\u00e9rence ?",
+      "answers": [
+        {
+          "text": "Travelling",
+          "isCorrect": true
+        },
+        {
+          "text": "Arr\u00eat sur image",
+          "isCorrect": false
+        },
+        {
+          "text": "Plan-s\u00e9quence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel est le point commun entre les productions suivantes : Bip\u00e8des, Break-ups, Hellvetia ?",
+      "answers": [
+        {
+          "text": "Ce sont des web-s\u00e9ries dont la RTS est coproductrice",
+          "isCorrect": true
+        },
+        {
+          "text": "Ce sont des s\u00e9ries qui ont \u00e9t\u00e9 diffus\u00e9es uniquement sur les r\u00e9seaux sociaux",
+          "isCorrect": false
+        },
+        {
+          "text": "Ce sont des productions suisses allemandes",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dans quelle ville le documentaire de Fernand Melgar L'Abri coproduit par la RTS prend-il place ?",
+      "answers": [
+        {
+          "text": "Lausanne",
+          "isCorrect": true
+        },
+        {
+          "text": "Morges",
+          "isCorrect": false
+        },
+        {
+          "text": "Gen\u00e8ve",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle expression fran\u00e7aise d\u00e9signe le magazine culturel hebdomadaire co-produit par Point Prod et la RTS  diffus\u00e9 le jeudi soir sur RTS Un depuis 2011 ?",
+      "answers": [
+        {
+          "text": "La puce \u00e0 l'oreille",
+          "isCorrect": true
+        },
+        {
+          "text": "Le bouche \u00e0 oreille",
+          "isCorrect": false
+        },
+        {
+          "text": "A vue d'\u0153il",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pourquoi les antennes de TV5Monde ont-elles \u00e9t\u00e9 interrompues dans la nuit du 8 au 9 avril 2015 ?",
+      "answers": [
+        {
+          "text": "Une cyberattaque a eu lieu",
+          "isCorrect": true
+        },
+        {
+          "text": "Un probl\u00e8me technique est intervenu",
+          "isCorrect": false
+        },
+        {
+          "text": "Le r\u00e9gisseur s'est endormi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel est le point commun entre Le Festival Tous Ecrans, le Neuch\u00e2tel International Fantastic Film Festival et le Festival International des droits humains ?",
+      "answers": [
+        {
+          "text": "La RTS est partenaire des ces festivals",
+          "isCorrect": true
+        },
+        {
+          "text": "Ils programment uniquement des films soutenus par la RTS",
+          "isCorrect": false
+        },
+        {
+          "text": "Ils sont organis\u00e9s dans les locaux de la RTS",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Que signifie l'acronyme UER ?",
+      "answers": [
+        {
+          "text": "L'Union Europ\u00e9enne de Radio-t\u00e9l\u00e9vision",
+          "isCorrect": true
+        },
+        {
+          "text": "L'Union Economique suisse de radiodiffusion",
+          "isCorrect": false
+        },
+        {
+          "text": "L'Unit\u00e9 Europ\u00e9enne de R\u00e9formes t\u00e9l\u00e9visielles",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Que signifie l'acronyme VOD ?",
+      "answers": [
+        {
+          "text": "Video On demand",
+          "isCorrect": true
+        },
+        {
+          "text": "Video on line direct",
+          "isCorrect": false
+        },
+        {
+          "text": "Video on line diff\u00e9r\u00e9",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel service en ligne propos\u00e9 par la RTS permet de r\u00e9\u00e9couter et t\u00e9l\u00e9charger sous forme d'abonnement les \u00e9missions radiophoniques manqu\u00e9es ?",
+      "answers": [
+        {
+          "text": "Le podcast",
+          "isCorrect": true
+        },
+        {
+          "text": "L'iPodcast",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Webcasting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "De quelle mani\u00e8re la RTS a-t-elle particip\u00e9 aux spectacles de Brigitte Rosset \"Tiguidou\" et de Fr\u00e9d\u00e9ric Recrosio \"Je suis vieux (mais pas beaucoup d\u00e9j\u00e0)\" ?",
+      "answers": [
+        {
+          "text": "Elle les a capt\u00e9s et diffus\u00e9s",
+          "isCorrect": true
+        },
+        {
+          "text": "Elle a produit les repr\u00e9sentations",
+          "isCorrect": false
+        },
+        {
+          "text": "Elle a fait une s\u00e9rie t\u00e9l\u00e9vis\u00e9es avec les deux repr\u00e9sentations",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel est le th\u00e8me (et lieu) principal du dernier film de Yves Yersin Tableau noir sorti en 2013 et coproduit par la RTS ?",
+      "answers": [
+        {
+          "text": "L'\u00e9cole",
+          "isCorrect": true
+        },
+        {
+          "text": "Le cimeti\u00e8re",
+          "isCorrect": false
+        },
+        {
+          "text": "L'\u00e9glise",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 2015, lors de la soir\u00e9e d'ouverture du NIFFF, la web s\u00e9rie Hellvetia est \u00e9trangement lanc\u00e9e. Pourquoi ?",
+      "answers": [
+        {
+          "text": "V\u00e9ritable show th\u00e9\u00e2tral dans l'univers du fantastique, entre gore et humour dans la salle",
+          "isCorrect": true
+        },
+        {
+          "text": "Les spectateurs ont d\u00fb \u00e9vacuer la salle suite \u00e0 un d\u00e9but d'incendie",
+          "isCorrect": false
+        },
+        {
+          "text": "La soir\u00e9e d'ouverture est devenue le lieu de tournage du second \u00e9pisode",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1971, Temps Pr\u00e9sent r\u00e9alise un reportage au Chili. Fidel Castro, qui rend visite au pr\u00e9sident chilien, est film\u00e9 en train de boire une boisson sucr\u00e9e, laquelle?",
+      "answers": [
+        {
+          "text": "du Coca-cola",
+          "isCorrect": true
+        },
+        {
+          "text": "du Sprite",
+          "isCorrect": false
+        },
+        {
+          "text": "de l'Orangina",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A la fin des ann\u00e9es 70 les jeunes romands suivent les aventures de M. Chat, Ratatouille et Tibouille. Dans quel pays vivent-ils?",
+      "answers": [
+        {
+          "text": "Pays du Ratamiaou",
+          "isCorrect": true
+        },
+        {
+          "text": "Pays des enfants heureux",
+          "isCorrect": false
+        },
+        {
+          "text": "Pays des jouets",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Le d\u00e9partement de l'actualit\u00e9 vit un grand changement en 2014, lequel?",
+      "answers": [
+        {
+          "text": "Nouveau studio d'actualit\u00e9 en haute d\u00e9finition",
+          "isCorrect": true
+        },
+        {
+          "text": "Darius Rochebin n'utilise plus de prompteur",
+          "isCorrect": false
+        },
+        {
+          "text": "Le d\u00e9partement est d\u00e9localis\u00e9 \u00e0 Lausanne",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Couleurs locales change de titre pendant les 2 mois d'\u00e9t\u00e9, le journal devient\u2026",
+      "answers": [
+        {
+          "text": "Couleurs d'\u00e9t\u00e9",
+          "isCorrect": true
+        },
+        {
+          "text": "Couleurs estivales",
+          "isCorrect": false
+        },
+        {
+          "text": "Couleurs chaudes",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle est l'ambiance de la s\u00e9rie Station Horizon?",
+      "answers": [
+        {
+          "text": "Country helv\u00e9tique et parfums d'Am\u00e9rique",
+          "isCorrect": true
+        },
+        {
+          "text": "Musique classique et ch\u00e2teaux",
+          "isCorrect": false
+        },
+        {
+          "text": "Hip hop et culture de rue",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Avec le titre \"Ne partez pas sans moi\", quelle chanteuse remporte le Concours Eurovision de la Chanson en 1988 pour la Suisse diffus\u00e9 sur la TSR ?",
+      "answers": [
+        {
+          "text": "C\u00e9line Dion",
+          "isCorrect": true
+        },
+        {
+          "text": "France Gall",
+          "isCorrect": false
+        },
+        {
+          "text": "Vanessa Paradis",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "\u00c0 quelle occasion Jo\u00ebl Dicker a-t-il \u00e9t\u00e9 invit\u00e9 par Darius Rochebin dans Pardonnez-moi le 4 octobre 2015 ?",
+      "answers": [
+        {
+          "text": "Pour la sortie de son nouveau roman Le livre des Baltimore",
+          "isCorrect": true
+        },
+        {
+          "text": "Pour la sortie de son nouveau roman La V\u00e9rit\u00e9 sur l\u2019Affaire Harry Quebert",
+          "isCorrect": false
+        },
+        {
+          "text": "Pour la vente de son 1'000'000e roman La V\u00e9rit\u00e9 sur l\u2019Affaire Harry Quebert",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "L'\u00e9mission Mise au Point a f\u00eat\u00e9 ses 20 ans en 2016. Combien de pr\u00e9sentateurs s'y sont succ\u00e9d\u00e9s ?",
+      "answers": [
+        {
+          "text": "12 pr\u00e9sentateurs",
+          "isCorrect": true
+        },
+        {
+          "text": "20 pr\u00e9sentateurs",
+          "isCorrect": false
+        },
+        {
+          "text": "9 pr\u00e9sentateurs",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 2005, les collaborateurs sont \u00e9vacu\u00e9s de la tour RTS et n'y reviendront qu'en 2010. Pour quelle raison?",
+      "answers": [
+        {
+          "text": "Le b\u00e2timent \u00e9tait charg\u00e9 d'amiante.",
+          "isCorrect": true
+        },
+        {
+          "text": "Le b\u00e2timent ne r\u00e9pondait pas aux normes sismiques.",
+          "isCorrect": false
+        },
+        {
+          "text": "Un incendie avait d\u00e9truit plusieurs \u00e9tages du b\u00e2timent.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1924, \u00e0 combien s'\u00e9levait le montant de la \"taxe d'audition\" que devait payer un particulier pour \u00e9couter la radio chez lui?",
+      "answers": [
+        {
+          "text": "10 Frs",
+          "isCorrect": true
+        },
+        {
+          "text": "1 Frs",
+          "isCorrect": false
+        },
+        {
+          "text": "100 Frs",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "L'\u00e9mission humoristique qui r\u00e9unissait entre autres Laurent Flutsch, Yann Lambiel et Thierry Meury le dimanche en fin de matin\u00e9e avait pour titre...",
+      "answers": [
+        {
+          "text": "La soupe (est pleine)",
+          "isCorrect": true
+        },
+        {
+          "text": "\u00c0 fond les manettes",
+          "isCorrect": false
+        },
+        {
+          "text": "Ras le bol",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "O\u00f9 a \u00e9t\u00e9 construit le premier \u00e9metteur national suisse de radiodiffusion ?",
+      "answers": [
+        {
+          "text": "Sottens",
+          "isCorrect": true
+        },
+        {
+          "text": "La D\u00f4le",
+          "isCorrect": false
+        },
+        {
+          "text": "Lausanne",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Edith Salberg anima le Jardin de Romarin de 1969 \u00e0 1973, une \u00e9mission pour les enfants. Qu\u2019\u00e9tait Romarin?  Anim\u00e9e par Edith Salberg, cette \u00e9mission pour les tout petits avait comme h\u00e9ros un petit \u00e2ne muet et son comp\u00e8re le corbeau",
+      "answers": [
+        {
+          "text": "Le Jardin de Romarin",
+          "isCorrect": true
+        },
+        {
+          "text": "Rondin Picotin",
+          "isCorrect": false
+        },
+        {
+          "text": "Blanche et Gaspard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Le finish dramatique de la marathonienne Suisse Gabriela Andersen-Schiess aux JO de 1984 fut un grand moment comment\u00e9 par Boris Aquadro. De quels Jeux s'agit-il?",
+      "answers": [
+        {
+          "text": "Los Angeles",
+          "isCorrect": true
+        },
+        {
+          "text": "S\u00e9oul",
+          "isCorrect": false
+        },
+        {
+          "text": "Moscou",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Un m\u00e9dia \"d'une autre \u00e9poque\" a rejoint la TSR \u00e0 Gen\u00e8ve en 2006? Lequel?",
+      "answers": [
+        {
+          "text": "Teletext",
+          "isCorrect": true
+        },
+        {
+          "text": "Minitel",
+          "isCorrect": false
+        },
+        {
+          "text": "Agence t\u00e9l\u00e9graphique suisse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En f\u00e9vrier 2015, le site RTSinfo.ch est devenu \"responsive\", c\u2019est-\u00e0-dire?",
+      "answers": [
+        {
+          "text": "Il s'adapte automatiquement \u00e0 toutes les tailles d'\u00e9cran",
+          "isCorrect": true
+        },
+        {
+          "text": "Il r\u00e9dige automatiquement les contenus",
+          "isCorrect": false
+        },
+        {
+          "text": "Il permet aux internautes de r\u00e9pondre aux journalistes",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "De quel sujet traite l'\u00e9mission Nouvo, diffus\u00e9e \u00e0 l'antenne et sur les r\u00e9seaux sociaux?",
+      "answers": [
+        {
+          "text": "Les nouvelles technologies",
+          "isCorrect": true
+        },
+        {
+          "text": "La mode",
+          "isCorrect": false
+        },
+        {
+          "text": "Les m\u00e9tiers du futur",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En \u00e9t\u00e9 2015, le site RTSinfo.ch a mis en ligne un test qui a cr\u00e9\u00e9 le buzz en Suisse romande. De quoi s'agissait-il?",
+      "answers": [
+        {
+          "text": "Le Parlom\u00e8tre\", qui d\u00e9termine votre r\u00e9gion en fonction des mots romands que vous utilisez",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Vrai-faux\", qui permet de tester vos connaissances sur les clich\u00e9s de la Suisse romande",
+          "isCorrect": false
+        },
+        {
+          "text": "C't \u00e9quipe\", qui offre la possibilit\u00e9 de cr\u00e9er son \u00e9quipe de foot en s\u00e9lectionnant les meilleurs joueurs suisses",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pendant l'Euro 2016, le site RTSsport proposait une nouvelle fonctionnalit\u00e9, laquelle?",
+      "answers": [
+        {
+          "text": "Le mode \"multicam\" qui permet de choisir la cam\u00e9ra et l'angle de vue",
+          "isCorrect": true
+        },
+        {
+          "text": "Noter les joueurs apr\u00e8s chaque match pour \u00e9tablir une \u00e9quipe-type",
+          "isCorrect": false
+        },
+        {
+          "text": "Enregistrer soi-m\u00eame ses commentaires pour les partager sur les r\u00e9seaux sociaux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Lors de l'inauguration du nouveau zoo de la Garenne, la RTS a test\u00e9 un nouveau dispositif multim\u00e9dia, lequel?",
+      "answers": [
+        {
+          "text": "La vid\u00e9o \u00e0 360\u00b0",
+          "isCorrect": true
+        },
+        {
+          "text": "Le capteur olfactif",
+          "isCorrect": false
+        },
+        {
+          "text": "Les images en 3D",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Lanc\u00e9e en janvier 2015, la cha\u00eene internet RTSinfo en continu a n\u00e9cessit\u00e9 une modification des habitudes des journalistes radio, laquelle?",
+      "answers": [
+        {
+          "text": "D\u00e9sormais film\u00e9s, ils doivent faire attention \u00e0 leur apparence",
+          "isCorrect": true
+        },
+        {
+          "text": "Ils ne peuvent plus lire leur texte et doivent l'apprendre par c\u0153ur",
+          "isCorrect": false
+        },
+        {
+          "text": "Ils doivent \u00e9crire leurs textes dans un logiciel pour cr\u00e9er des sous-titres",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pour les \u00e9lections f\u00e9d\u00e9rales 2015, RTSinfo.ch a cr\u00e9\u00e9 les \u201cSuisse Battles\u201d. Qu'est-ce que c'est?",
+      "answers": [
+        {
+          "text": "Une comparaison entre deux mani\u00e8res de faire campagne",
+          "isCorrect": true
+        },
+        {
+          "text": "Un d\u00e9bat entre deux candidats de m\u00eame parti",
+          "isCorrect": false
+        },
+        {
+          "text": "Un sondage entre deux sp\u00e9cialit\u00e9s cantonales",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1968, les r\u00e9alisateurs Alain Tanner, Claude Goretta, Jean-Louis Roy, Michel Soutter et Jean-Jacques Lagrange se sont r\u00e9unis pour cr\u00e9er :",
+      "answers": [
+        {
+          "text": "Le Groupe 5",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Cin\u00e9-Club",
+          "isCorrect": false
+        },
+        {
+          "text": "Le film Les Petites Fugues",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel dispositif permet de visionner un film de r\u00e9alit\u00e9 virtuelle ?",
+      "answers": [
+        {
+          "text": "Un casque de r\u00e9alit\u00e9 virtuelle",
+          "isCorrect": true
+        },
+        {
+          "text": "Une salle de cin\u00e9ma \u00e9quip\u00e9e d'un projecteur 3D et des lunettes 3D",
+          "isCorrect": false
+        },
+        {
+          "text": "Un smarphone ou un ordinateur portable",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sur quelle plateforme web la RTS a-t-elle d\u00e9clin\u00e9 le contenu de ses cha\u00eenes radio et tv ?",
+      "answers": [
+        {
+          "text": "Youtube",
+          "isCorrect": true
+        },
+        {
+          "text": "Spotify",
+          "isCorrect": false
+        },
+        {
+          "text": "Netflix",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Diffus\u00e9e sur RTS La 1\u00e8re, le nom de l'\u00e9mission sur la philosophie vient d'une expression latine. Laquelle?",
+      "answers": [
+        {
+          "text": "Philo in vivo",
+          "isCorrect": true
+        },
+        {
+          "text": "Philo in vitro",
+          "isCorrect": false
+        },
+        {
+          "text": "Philo in petto",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Qu'est-ce que \"Dans ton quiz\" ?",
+      "answers": [
+        {
+          "text": "Une application blind test musicale",
+          "isCorrect": true
+        },
+        {
+          "text": "Une application blind test de musiques de film",
+          "isCorrect": false
+        },
+        {
+          "text": "Une application quiz de culture g\u00e9n\u00e9rale",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "\u00c0 la t\u00e9l\u00e9vision, comment nomme-t-on la case horaire du d\u00e9but de soir\u00e9e dont l'audience de la journ\u00e9e est la plus forte?",
+      "answers": [
+        {
+          "text": "Le prime-time",
+          "isCorrect": true
+        },
+        {
+          "text": "L'access prime-time",
+          "isCorrect": false
+        },
+        {
+          "text": "Le late night",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Haut-lieu des concerts radiodiffus\u00e9s, comment s'appelle le studio d'enregistrement radio \u00e0 Lausanne qui permet  notamment l'accueil du public?",
+      "answers": [
+        {
+          "text": "Le studio 15",
+          "isCorrect": true
+        },
+        {
+          "text": "Le studio 4",
+          "isCorrect": false
+        },
+        {
+          "text": "Le studio 5",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dans quelle proportion sont sous-titr\u00e9s les programmes de la RTS pour le public sourd et malentendant? La RTS sous-titre une partie de ses programmes pour le public sourd et malentendant. Qui r\u00e9alise le sous-titrage?",
+      "answers": [
+        {
+          "text": "Swiss TXT",
+          "isCorrect": true
+        },
+        {
+          "text": "Teletext",
+          "isCorrect": false
+        },
+        {
+          "text": "Fondation Romande des Malentendants",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle \u00e9mission Muriel Siki n'a-t-elle pas pr\u00e9sent\u00e9 ?",
+      "answers": [
+        {
+          "text": "Mise au point",
+          "isCorrect": true
+        },
+        {
+          "text": "TJ",
+          "isCorrect": false
+        },
+        {
+          "text": "Dolce Vita",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A quoi sert un fixeur?",
+      "answers": [
+        {
+          "text": "A accompagner un journaliste sur le terrain \u00e0 l'\u00e9tranger, comme interm\u00e9diaire, traducteur ou guide",
+          "isCorrect": true
+        },
+        {
+          "text": "A fixer les \u00e9crans",
+          "isCorrect": false
+        },
+        {
+          "text": "A tenir le pied de la cam\u00e9ra.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1926, la radio ne peut pas diffuser plus de deux bulletins d'information par jour. Pourquoi?",
+      "answers": [
+        {
+          "text": "A cause de la pression exerc\u00e9es par les \u00e9diteurs de journaux",
+          "isCorrect": true
+        },
+        {
+          "text": "Il ne se passe pas assez d'\u00e9v\u00e9nements int\u00e9ressants",
+          "isCorrect": false
+        },
+        {
+          "text": "Pour une question de s\u00e9curit\u00e9 nationale",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dans les ann\u00e9es 30, par quel moyen d'enregistrement f\u00fbt-il enfin possible de diffuser des \u00e9missions radio en diff\u00e9r\u00e9?",
+      "answers": [
+        {
+          "text": "Gr\u00e2ce \u00e0 l'enregistrment sur bandes d'acier",
+          "isCorrect": true
+        },
+        {
+          "text": "Gr\u00e2ce \u00e0 l'enregistrment sur bandes magn\u00e9tiques",
+          "isCorrect": false
+        },
+        {
+          "text": "Gr\u00e2ce \u00e0 l'enregistrement sur 78 tours \u00e0 gravure directe",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1935 des \u00e9missions radio sont cr\u00e9\u00e9es \u00e0 destination d'un public \u00e0 l'\u00e9tranger bien particulier. De quel public s'agit-il?",
+      "answers": [
+        {
+          "text": "Les Suisses vivant en Am\u00e9rique, en Asie et en Australie",
+          "isCorrect": true
+        },
+        {
+          "text": "Les \u00e9tudiants \u00e9trangers d\u00e9sirant apprendre le suisse-allemand",
+          "isCorrect": false
+        },
+        {
+          "text": "Les espions de l'arm\u00e9e suisse infiltr\u00e9s en Europe",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle \u00e9mission toujours en activit\u00e9 voit le jour en 1946, qui fait appel \u00e0 la g\u00e9n\u00e9rosit\u00e9 de la population?",
+      "answers": [
+        {
+          "text": "La Cha\u00eene du Bonheur",
+          "isCorrect": true
+        },
+        {
+          "text": "Bonsoir voisin, bonsoir voisine",
+          "isCorrect": false
+        },
+        {
+          "text": "Images suisses",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1949, la presse s'\u00e9meut des tendances politiques de certains collaborateurs radio. Pourquoi?",
+      "answers": [
+        {
+          "text": "Ils sont communistes",
+          "isCorrect": true
+        },
+        {
+          "text": "Ils sont n\u00e9o-nazis",
+          "isCorrect": false
+        },
+        {
+          "text": "Ils sont anarchistes",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1954, apr\u00e8s des ann\u00e9es d'exp\u00e9rimentation, une nouvelle technologie envahit les ondes helv\u00e9tiques. Laquelle?",
+      "answers": [
+        {
+          "text": "La t\u00e9l\u00e9vision",
+          "isCorrect": true
+        },
+        {
+          "text": "l'Eurovision",
+          "isCorrect": false
+        },
+        {
+          "text": "la radio st\u00e9r\u00e9ophonique",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1957, l'Association des \u00e9diteurs de presse propose de verser \u00e0 fond perdu 2 millions de francs par an \u00e0 la t\u00e9l\u00e9vision si\u2026",
+      "answers": [
+        {
+          "text": "\u2026 elle renonce \u00e0 l'id\u00e9e de diffuser des spots publicitaires",
+          "isCorrect": true
+        },
+        {
+          "text": "\u2026 elle diffuse une demi-heure de publicit\u00e9 par jour",
+          "isCorrect": false
+        },
+        {
+          "text": "\u2026 elle cr\u00e9e une \u00e9mission de revue de presse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1954 est cr\u00e9\u00e9 un r\u00e9seau europ\u00e9en d'\u00e9changes de programmes de t\u00e9l\u00e9vison. Quel est son nom?",
+      "answers": [
+        {
+          "text": "L'Eurovision",
+          "isCorrect": true
+        },
+        {
+          "text": "l'Euro League",
+          "isCorrect": false
+        },
+        {
+          "text": "L'Union europ\u00e9enne de radio-t\u00e9l\u00e9vision (UER)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Le 12 avril 1960 la t\u00e9l\u00e9vision retransmet pour la premi\u00e8re fois des fun\u00e9railles nationales. Ce sont celles d'un homme cher au c\u0153ur de tous les Suisses. De qui s'agit-il?",
+      "answers": [
+        {
+          "text": "Le g\u00e9n\u00e9ral Henri Guisan",
+          "isCorrect": true
+        },
+        {
+          "text": "Le clown Grock",
+          "isCorrect": false
+        },
+        {
+          "text": "Le professeur Auguste Piccard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1962, quelle technologie va permettre aux Suisses de recevoir des images TV en provenance des Etats-Unis",
+      "answers": [
+        {
+          "text": "Premier satellite de t\u00e9l\u00e9communication",
+          "isCorrect": true
+        },
+        {
+          "text": "Premier c\u00e2ble de t\u00e9l\u00e9communication transoc\u00e9anique",
+          "isCorrect": false
+        },
+        {
+          "text": "Premiers \u00e9changes par avion de bandes Super 8",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Le 24 avril 1964, le Conseil f\u00e9d\u00e9ral accepte enfin la diffusion de publicit\u00e9s \u00e0 la TV, mais trois produits en sont proscrits: l'alcool, le tabac et\u2026?",
+      "answers": [
+        {
+          "text": "Les m\u00e9dicaments",
+          "isCorrect": true
+        },
+        {
+          "text": "La lingerie coquine",
+          "isCorrect": false
+        },
+        {
+          "text": "Les armes \u00e0 feu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1968 quelle nouveaut\u00e9 technologique met du punch dans les images TV?",
+      "answers": [
+        {
+          "text": "Premi\u00e8res images couleur",
+          "isCorrect": true
+        },
+        {
+          "text": "Premiers films panoramiques",
+          "isCorrect": false
+        },
+        {
+          "text": "Premiers appareils \u00e9quip\u00e9s en dolby st\u00e9r\u00e9o",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1968, la radio-t\u00e9l\u00e9vision n'a pas peur des longues \u00e9missions. Quel \u00e9v\u00e9nements est diffus\u00e9 sans interruption durant 6 heures?",
+      "answers": [
+        {
+          "text": "Une s\u00e9ance enti\u00e8re du Conseil national",
+          "isCorrect": true
+        },
+        {
+          "text": "La foire du Valais",
+          "isCorrect": false
+        },
+        {
+          "text": "La F\u00eate des Vignerons",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En avril 1970, la SSR d\u00e9cide de s'\u00e9quiper d'un appareil afin de favoriser l'\u00e9tablissement des d\u00e9comptes de salaire de ses employ\u00e9s? De quoi s'agit-il?",
+      "answers": [
+        {
+          "text": "Un ordinateur",
+          "isCorrect": true
+        },
+        {
+          "text": "Un appareil \u00e0 code-barres",
+          "isCorrect": false
+        },
+        {
+          "text": "Un lecteur de microfiches",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Toute la Suisse \u00e9tait devant son poste de TV tr\u00e8s t\u00f4t le matin le 21 juillet 1969. Pour quel \u00e9v\u00e9nement sp\u00e9cial?",
+      "answers": [
+        {
+          "text": "Les premiers pas sur la lune",
+          "isCorrect": true
+        },
+        {
+          "text": "Le match Cassius Clay Jo Frazier",
+          "isCorrect": false
+        },
+        {
+          "text": "L'\u00e9lection am\u00e9ricaine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1994 la RTS lance une nouvelle chaine radio qui a comme slogan \u00abLa cha\u00eene de la chanson\u00bb.",
+      "answers": [
+        {
+          "text": "Option Musique",
+          "isCorrect": true
+        },
+        {
+          "text": "Couleur3",
+          "isCorrect": false
+        },
+        {
+          "text": "Musique Plus",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "D\u00e8s 2008 la diffusion TV par voie hertzienne est supprim\u00e9e au profit de la TNT. Que veut dire TNT?",
+      "answers": [
+        {
+          "text": "T\u00e9l\u00e9vison Num\u00e9rique Terrestre",
+          "isCorrect": true
+        },
+        {
+          "text": "T\u00e9l\u00e9vision Non Tax\u00e9e",
+          "isCorrect": false
+        },
+        {
+          "text": "T\u00e9l\u00e9vision Neutre et Traditionnelle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1950, Stefan Kudelski invente un enregistreur ouvrant le m\u00e9tier de journaliste au reportage radiophonique. Quel \u00e9tait son nom ?",
+      "answers": [
+        {
+          "text": "Le Nagra",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Revox",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Magn\u00e9to",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dans l'\u00e9mission Signes les interviews sont interpr\u00e9t\u00e9es en LSF. Que signifie cet acronyme?",
+      "answers": [
+        {
+          "text": "Langue des signes fran\u00e7aise",
+          "isCorrect": true
+        },
+        {
+          "text": "Language sans fronti\u00e8res",
+          "isCorrect": false
+        },
+        {
+          "text": "Langage des signes facile",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 2004, Radio Suisse Internationale renonce \u00e0 la diffusion radio pour basculer int\u00e9gralement sur Internet. Quel est le nom de cette plate-forme?",
+      "answers": [
+        {
+          "text": "swissinfo.ch (SWI)",
+          "isCorrect": true
+        },
+        {
+          "text": "World Radio Switzerland",
+          "isCorrect": false
+        },
+        {
+          "text": "radio swiss blog",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Les quatre membres de l'association Les Radios Publiques Francophones (RFP) sont France radio, RTBF, RTS et\u2026?",
+      "answers": [
+        {
+          "text": "Radio-Canada",
+          "isCorrect": true
+        },
+        {
+          "text": "Radio-Qu\u00e9bec",
+          "isCorrect": false
+        },
+        {
+          "text": "Radio Vatican",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Lors d'une interview de la TSR en 1966, \u00e0 qui Johnny Hallyday apprend-il \u00e0 faire des ronds de fum\u00e9e dans un restaurant de Nancy?",
+      "answers": [
+        {
+          "text": "Jimi Hendrix",
+          "isCorrect": true
+        },
+        {
+          "text": "Mick Jagger",
+          "isCorrect": false
+        },
+        {
+          "text": "Dick Rivers",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel est le nom du Festival cr\u00e9\u00e9 par la RSR en 2004, gratuit, urbain et enti\u00e8rement d\u00e9volu \u00e0 la sc\u00e8ne musicale suisse?",
+      "answers": [
+        {
+          "text": "Label Suisse",
+          "isCorrect": true
+        },
+        {
+          "text": "Musique Suisse",
+          "isCorrect": false
+        },
+        {
+          "text": "Id\u00e9e Suisse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A la radio, une \u00e9mission d'une minute tous les matins a \u00e9t\u00e9 diffus\u00e9e pendant dix-sept ans de 1964 \u00e0 1981. Quel \u00e9tait son nom?",
+      "answers": [
+        {
+          "text": "La Minute Oecum\u00e9nique",
+          "isCorrect": true
+        },
+        {
+          "text": "La pens\u00e9e du jour",
+          "isCorrect": false
+        },
+        {
+          "text": "Chers auditeurs",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dans son \u00e9mission Studio 4 en 1983, la TSR a eu le privil\u00e8ge d'accueillir un duo d'exception avec deux chanteurs fran\u00e7ais aujourd'hui disparus, lesquels?",
+      "answers": [
+        {
+          "text": "Daniel Balavoine et Michel Berger",
+          "isCorrect": true
+        },
+        {
+          "text": "Joe Dassin et Claude Fran\u00e7ois",
+          "isCorrect": false
+        },
+        {
+          "text": "Serge Gainsbourg et Barbara",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dans Les Beaux Parleurs sur La 1\u00e8re, quel humoriste suisse romand tient une chronique?",
+      "answers": [
+        {
+          "text": "Thomas Wiesel",
+          "isCorrect": true
+        },
+        {
+          "text": "Gaspard Proust",
+          "isCorrect": false
+        },
+        {
+          "text": "Fr\u00e9d\u00e9ric Mudry",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Un(e) humoriste romand(e) a fait ses d\u00e9buts \u00e0 la t\u00e9l\u00e9vision dans l'\u00e9mission Miss et Mister en 1996, qui est-ce?",
+      "answers": [
+        {
+          "text": "Yann Lambiel",
+          "isCorrect": true
+        },
+        {
+          "text": "Fr\u00e9d\u00e9ric Recrosio",
+          "isCorrect": false
+        },
+        {
+          "text": "Brigitte Rosset",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 2015, quel est l'\u00e9v\u00e9nement sportif qui a attir\u00e9 le plus de t\u00e9l\u00e9spectateurs sur la RTS?",
+      "answers": [
+        {
+          "text": "Finale de Roland-Garros",
+          "isCorrect": true
+        },
+        {
+          "text": "Finale de la Ligue des Champions",
+          "isCorrect": false
+        },
+        {
+          "text": "Coupe du Monde de ski",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Comment s'appelle l'\u00e9mission d\u2019Espace 2 consacr\u00e9e aux musiciens classiques \u00e9mergeants?",
+      "answers": [
+        {
+          "text": "La Tribune des Jeunes Musiciens",
+          "isCorrect": true
+        },
+        {
+          "text": "L'Heure Musicale",
+          "isCorrect": false
+        },
+        {
+          "text": "Disques en lice",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Que s'est-il pass\u00e9 le 1er octobre 1968 sur la TSR?",
+      "answers": [
+        {
+          "text": "La diffusion de la premi\u00e8re \u00e9mission en couleur",
+          "isCorrect": true
+        },
+        {
+          "text": "La diffusion de la premi\u00e8re \u00e9dition du T\u00e9l\u00e9journal",
+          "isCorrect": false
+        },
+        {
+          "text": "La diffusion du premier spot de publicit\u00e9",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A quelle occasion la TSR a-t-elle enregistr\u00e9 son record d'audience (530'000 t\u00e9l\u00e9spectateurs)?",
+      "answers": [
+        {
+          "text": "Lors du vote sur l'Espace \u00e9conomique europ\u00e9en en 1992",
+          "isCorrect": true
+        },
+        {
+          "text": "Lors du  match de football Suisse-France durant l'Euro 2016",
+          "isCorrect": false
+        },
+        {
+          "text": "Lors de la diffusion du film \"Quantum of Solace",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pourquoi l'audience de Couleur 3 a-t-elle fortement augment\u00e9 en 1993?",
+      "answers": [
+        {
+          "text": "Gr\u00e2ce \u00e0 la diffusion de la chaine en France voisine",
+          "isCorrect": true
+        },
+        {
+          "text": "Gr\u00e2ce \u00e0 la diffusion de l'\u00e9mission nocturne \"Les nuits Q",
+          "isCorrect": false
+        },
+        {
+          "text": "Gr\u00e2ce \u00e0 la diffusion en boucle de l'album \"In Utero\" du groupe Nirvana, sorti cette ann\u00e9e-l\u00e0",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Que repr\u00e9sentait le logo de la TSR entre 1990 et 1997?",
+      "answers": [
+        {
+          "text": "Un visage de profil",
+          "isCorrect": true
+        },
+        {
+          "text": "Des d\u00e9s",
+          "isCorrect": false
+        },
+        {
+          "text": "Un \u00e9crou",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Combien la RTS compte-t-elle de collaborateurs?",
+      "answers": [
+        {
+          "text": "Environ 1900",
+          "isCorrect": true
+        },
+        {
+          "text": "Environ 3000",
+          "isCorrect": false
+        },
+        {
+          "text": "Environ 1000",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel grand musicien a donn\u00e9 son nom \u00e0 l'une des adresses de la RTS?",
+      "answers": [
+        {
+          "text": "Ernest Ansermet",
+          "isCorrect": true
+        },
+        {
+          "text": "Arthur Honegger",
+          "isCorrect": false
+        },
+        {
+          "text": "Emile Jacques-Dalcroze",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pour quelles raisons est-ce que le 19h30 n\u2019a pas pu\u00a0\u00eatre diffus\u00e9 \u00e0 19h30, mais \u00e0 20h00 \u00e0 six reprises depuis l'an 2000?",
+      "answers": [
+        {
+          "text": "Parce que l'\u00e9quipe suisse jouait durant la Coupe d'europe ou la Coupe du Monde \u00e0 cet horaire",
+          "isCorrect": true
+        },
+        {
+          "text": "Parce que la r\u00e9daction de l'actualit\u00e9 a subi des pannes d'\u00e9lectricit\u00e9",
+          "isCorrect": false
+        },
+        {
+          "text": "En raison des r\u00e9sultats des votations qui n'\u00e9taient pas encore connus \u00e0 19h30",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Que se passe-t-il sur les cha\u00eenes de RTS Un et RTS Deux en cas de panne de courant prolong\u00e9e, d'alerte \u00e0 la bombe ou de gros probl\u00e8me technique?",
+      "answers": [
+        {
+          "text": "Le programme est diffus\u00e9 depuis Z\u00fcrich",
+          "isCorrect": true
+        },
+        {
+          "text": "On laisse un signal noir sur les deux cha\u00eenes",
+          "isCorrect": false
+        },
+        {
+          "text": "On bacule sur le programme d'une cha\u00eene \u00e9trang\u00e8re",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel pourcentage de la population romande \u00e9coute tous les jours la radio?",
+      "answers": [
+        {
+          "text": "80%",
+          "isCorrect": true
+        },
+        {
+          "text": "50%",
+          "isCorrect": false
+        },
+        {
+          "text": "60%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle autre chaine TV francophone diffuse certains des programmes originaux de la RTS?",
+      "answers": [
+        {
+          "text": "TV5 Monde",
+          "isCorrect": true
+        },
+        {
+          "text": "ICI Radio-Canada T\u00e9l\u00e9",
+          "isCorrect": false
+        },
+        {
+          "text": "La RTS (la Radio-t\u00e9l\u00e9vision de Serbie)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dans quel village se situait l'\u00e9metteur en ondes moyennes qui a \u00e9t\u00e9 mis hors service en 2010?",
+      "answers": [
+        {
+          "text": "Sottens (VD)",
+          "isCorrect": true
+        },
+        {
+          "text": "Au sommet de la D\u00f4le, dans la commune de Gingins (VD)",
+          "isCorrect": false
+        },
+        {
+          "text": "Au sommet du Mont P\u00e8lerin, dans la commune de Chardonne (VD)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle \u00e9mission r\u00e9unit presque syst\u00e9matiquement le plus grand nombre de t\u00e9l\u00e9spectateurs sur la RTS?",
+      "answers": [
+        {
+          "text": "Le 19h30",
+          "isCorrect": true
+        },
+        {
+          "text": "A bon entendeur",
+          "isCorrect": false
+        },
+        {
+          "text": "Toutes Taxes Comprises",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Qu'est-ce qui est appel\u00e9 'Le pirate' en gestion d'antenne TV?",
+      "answers": [
+        {
+          "text": "Le logo de la cha\u00eene RTS Un ou RTS Deux, qui se trouve en g\u00e9n\u00e9ral en haut \u00e0 droite de l'\u00e9cran",
+          "isCorrect": true
+        },
+        {
+          "text": "Une personne qui passe de mani\u00e8re inattendue devant une cam\u00e9ra \u00e0 l'antenne",
+          "isCorrect": false
+        },
+        {
+          "text": "Une personne qui capte le signale de la TV sans payer la redevance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Qu'est-ce qu'on appelle un mouchard en TV?",
+      "answers": [
+        {
+          "text": "Un enregsitrement permanent des \u00e9missions diffus\u00e9es \u00e0 l'antenne",
+          "isCorrect": true
+        },
+        {
+          "text": "Le texte d'un journaliste qui a \u00e9t\u00e9 copi\u00e9 sur une autre \u00e9dition du journal",
+          "isCorrect": false
+        },
+        {
+          "text": "Le papier que les pr\u00e9sentateurs ont \u00e0 la main durant les \u00e9missions, afin de se souvenir de leur texte",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A quoi sert un prompteur en TV?",
+      "answers": [
+        {
+          "text": "A faire d\u00e9filer le texte \u00e0 lire par le pr\u00e9sentateur",
+          "isCorrect": true
+        },
+        {
+          "text": "A d\u00e9compter les minutes des TJ, en direct",
+          "isCorrect": false
+        },
+        {
+          "text": "A mesurer la vivacit\u00e9 des journalistes stagiaires",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "L'\u00e9mission humoristique qui r\u00e9unissait entre autres Laurent Flutsch, Yann Lambiel et Thierry Meury le dimanche en fin de matin\u00e9e avait pour titre...",
+      "answers": [
+        {
+          "text": "La Soupe",
+          "isCorrect": true
+        },
+        {
+          "text": "\u00c0 fond les manettes",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Fond du Potage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quels sont les deux grands orchestres classiques romands soutenus par la RTS?",
+      "answers": [
+        {
+          "text": "L'Orchestre de la Suisse Romande (OSR) et L'Orchestre de Chambre de Lausanne (OCL)",
+          "isCorrect": true
+        },
+        {
+          "text": "L'Orchestre de la Suisse Romande (OSR) et l'Orchestre de Chambre de Gen\u00e8ve (OCG)",
+          "isCorrect": false
+        },
+        {
+          "text": "La Sinfonietta de Lausanne et l'OCL",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Alain Morisod,  animateur de l'\u00e9mission les \"Coups de C\u0153ur\" sur RTS1, a \u00e9galement vendu des millions de disques dans le monde. Dans quel pays en particulier?",
+      "answers": [
+        {
+          "text": "Le Canada",
+          "isCorrect": true
+        },
+        {
+          "text": "La Suisse",
+          "isCorrect": false
+        },
+        {
+          "text": "La France",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Monney et Mermet ont co-anim\u00e9 avec Lolita l'\u00e9mission d\u00e9jant\u00e9e \"Carabine FM\". De quel groupe folk qui a marqu\u00e9 les ann\u00e9es 70 sont-ils aussi musiciens?",
+      "answers": [
+        {
+          "text": "Aristide Padygros",
+          "isCorrect": true
+        },
+        {
+          "text": "Malicorne",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Beau Lac de B\u00e2le",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Co-cr\u00e9ateur des sketchs cultes \"Les Gros Cons\u201d, il joue dans plusieurs s\u00e9ries fiction produites par la RTS, dont Bigoudi ou Photo S\u00e9vices. Qui est-il ?",
+      "answers": [
+        {
+          "text": "Laurent Deshusses",
+          "isCorrect": true
+        },
+        {
+          "text": "Alain Mermet",
+          "isCorrect": false
+        },
+        {
+          "text": "Jean-Alexandre Blanchet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Rythm\u00e9e par les petits chefs incomp\u00e9tents, les employ\u00e9s submerg\u00e9s,les plans d\u2019\u00e9conomie et les burn-out, cette s\u00e9rie a \u00e9t\u00e9 tourn\u00e9e dans les locaux de la RTS.",
+      "answers": [
+        {
+          "text": "La Vie de Bureau",
+          "isCorrect": true
+        },
+        {
+          "text": "Petits D\u00e9ballages entre Amis",
+          "isCorrect": false
+        },
+        {
+          "text": "La Tribu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pardonnez-moi est une \u00e9mission RTS ayant pour principe \u2026",
+      "answers": [
+        {
+          "text": "d\u2019interviewer des personnalit\u00e9s",
+          "isCorrect": true
+        },
+        {
+          "text": "de confesser de grands criminels",
+          "isCorrect": false
+        },
+        {
+          "text": "de montrer les contradictions des politiques",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Espace 2 organise un festival de musique classique dont le nom est d\u00e9riv\u00e9 du nom d\u2019un compositeur c\u00e9l\u00e8bre. Lequel?",
+      "answers": [
+        {
+          "text": "Schubert",
+          "isCorrect": true
+        },
+        {
+          "text": "Charlet",
+          "isCorrect": false
+        },
+        {
+          "text": "Mozart",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "La TSR a assur\u00e9 la premi\u00e8re retransmission sur toutes les cha\u00eenes du groupe Eurovision le 5 juin 1954. Quel \u00e9v\u00e9nement la TV couvrait-elle? La toute premi\u00e8re transmission en Eurovision s'est faite depuis Montreux le 5 juin 1954. Pour quel \u00e9v\u00e9nement?",
+      "answers": [
+        {
+          "text": "La F\u00eate des Narcisses",
+          "isCorrect": true
+        },
+        {
+          "text": "La F\u00eate des Vignerons",
+          "isCorrect": false
+        },
+        {
+          "text": "Jeux Sans Fronti\u00e8res",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Vertigo, \u00e9mission culturelle diffus\u00e9e sur La 1\u00e8re de Pierre-Philippe Cadert  sur La 1\u00e8re porte le nom d'un c\u00e9l\u00e8bre film d'Alfred Hitchock. Quel est son titre  en version fran\u00e7aise? de la version fran\u00e7aise ?",
+      "answers": [
+        {
+          "text": "Sueurs froides",
+          "isCorrect": true
+        },
+        {
+          "text": "La Mort aux trousses",
+          "isCorrect": false
+        },
+        {
+          "text": "Fen\u00eatre sur cour",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel nom d\u00e9finit la nouvelle forme de narration d\u00e9veloppant une histoire \u00e0 travers plusieurs m\u00e9dias ? \n Qu'est-ce que le transmedia ?",
+      "answers": [
+        {
+          "text": "Le transmedia\n Une histoire qui se d\u00e9veloppe sur diff\u00e9rents m\u00e9dias.",
+          "isCorrect": true
+        },
+        {
+          "text": "Le cross-media\nUne nouvelle forme de narration permettant de d\u00e9velopper\nUne production diffus\u00e9e sur plusieurs m\u00e9dias.",
+          "isCorrect": false
+        },
+        {
+          "text": "Le multim\u00e9dia\nUne production qui n\u00e9cessite l'utilisation de lunettes connect\u00e9es.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Comment s'appelle l'antenne historique qui \u00e9mettait pour les auditeurs al\u00e9maniques de la SSR? Monte Ceneri pour les tessinois, Sottens pour les romands\u2026Comment se nomme l'antenne historique qui \u00e9mettait pour les auditeurs al\u00e9maniques?",
+      "answers": [
+        {
+          "text": "Berom\u00fcnster",
+          "isCorrect": true
+        },
+        {
+          "text": "Limburger",
+          "isCorrect": false
+        },
+        {
+          "text": "Monte Ceneri",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Comment appelle-t-on, en Suisse,  ce nouveau genre de production, entre court-m\u00e9trage et s\u00e9rie, destin\u00e9  de s\u00e9ries \u00e0 \u00eatre diffus\u00e9 sur Internet ?",
+      "answers": [
+        {
+          "text": "Les web s\u00e9ries",
+          "isCorrect": true
+        },
+        {
+          "text": "Les s\u00e9ries en streaming",
+          "isCorrect": false
+        },
+        {
+          "text": "Les live s\u00e9ries",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle ancienne pr\u00e9sentatrice et productrice de la RTS a remplac\u00e9 Antoine de Caunes dans Le Grand Journal sur Canal+  ?",
+      "answers": [
+        {
+          "text": "Ma\u00eftena Biraben",
+          "isCorrect": true
+        },
+        {
+          "text": "Isabelle Moncada",
+          "isCorrect": false
+        },
+        {
+          "text": "Laurence Ferrari",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A quel \u00e9v\u00e9nement historique la TSR \u00e9tait la seule TV pr\u00e9sente en 1968?",
+      "answers": [
+        {
+          "text": "L'assassinat du candidat \u00e0 l'\u00e9lection pr\u00e9sidentielle am\u00e9ricaine Bob Kennedy",
+          "isCorrect": true
+        },
+        {
+          "text": "L'\u00e9crasement du \"Printemps de Prague",
+          "isCorrect": false
+        },
+        {
+          "text": "La d\u00e9mission du g\u00e9n\u00e9ral de Gaule",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Cr\u00e9\u00e9 en 1969, ce magazine de reportages a \u00e9t\u00e9 maintes fois prim\u00e9 internationalement. Quel est son nom?",
+      "answers": [
+        {
+          "text": "Temps Pr\u00e9sent",
+          "isCorrect": true
+        },
+        {
+          "text": "Continents sans Visa",
+          "isCorrect": false
+        },
+        {
+          "text": "Mise au Point",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Qu'est-ce qui a d\u00e9clench\u00e9 un fou rire m\u00e9morable de Beno\u00eet Poelvoorde et G\u00e9rard Lanvin sur le plateau du 12:45?",
+      "answers": [
+        {
+          "text": "Une d\u00e9gustation de sushis",
+          "isCorrect": true
+        },
+        {
+          "text": "Un lapsus de la pr\u00e9sentatrice",
+          "isCorrect": false
+        },
+        {
+          "text": "Un gag de Poelvoorde",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quels animaux sont Basile et P\u00e9cora ?",
+      "answers": [
+        {
+          "text": "Un loup et une brebis",
+          "isCorrect": true
+        },
+        {
+          "text": "Un chat et une souris",
+          "isCorrect": false
+        },
+        {
+          "text": "Un ours et un oiseau",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A Bon Entendeur, \u00e9mission cr\u00e9\u00e9e en 1976, est l'une des plus anciennes \u00e9missions RTS. Quel public cible-t-elle?",
+      "answers": [
+        {
+          "text": "Les consommateurs",
+          "isCorrect": true
+        },
+        {
+          "text": "Les sportifs",
+          "isCorrect": false
+        },
+        {
+          "text": "Les malentendants",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel barrage valaisan a donn\u00e9 lieu \u00e0 un superbe documentaire r\u00e9alis\u00e9 par Claude Goretta?",
+      "answers": [
+        {
+          "text": "La Grande-Dixence",
+          "isCorrect": true
+        },
+        {
+          "text": "Emosson",
+          "isCorrect": false
+        },
+        {
+          "text": "Les Trois-Gorges",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Ancien champion olympique, quel sportif \u00e0 la retraite commente r\u00e9guli\u00e8rement le tennis \u00e0 la RTS?",
+      "answers": [
+        {
+          "text": "Marc Rosset",
+          "isCorrect": true
+        },
+        {
+          "text": "Yannick Noah",
+          "isCorrect": false
+        },
+        {
+          "text": "Henri Leconte",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle \u00e9mission TV de la RTS a pour vocation d'informer les consommateurs?",
+      "answers": [
+        {
+          "text": "A Bon Entendeur",
+          "isCorrect": true
+        },
+        {
+          "text": "Zones d\u2019ombre",
+          "isCorrect": false
+        },
+        {
+          "text": "26 Minutes",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Beno\u00eet Aymon et Pierre-Pascal Rossi ont coanim\u00e9 un magazine sur la nature. Lequel?",
+      "answers": [
+        {
+          "text": "Passe moi les jumelles",
+          "isCorrect": true
+        },
+        {
+          "text": "Paysages Suisses",
+          "isCorrect": false
+        },
+        {
+          "text": "Monsieur Jardinier",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel pr\u00e9sident de la Conf\u00e9d\u00e9ration a \u00e9t\u00e9 interview\u00e9 par Albert Le Vert des Babibouchettes?",
+      "answers": [
+        {
+          "text": "Flavio Cotti",
+          "isCorrect": true
+        },
+        {
+          "text": "Adolf Ogi",
+          "isCorrect": false
+        },
+        {
+          "text": "Didier Burkhalter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Avec quelle phrase Pierre-Pascal Rossi avait-il l'habitude de clore le T\u00e9l\u00e9journal?",
+      "answers": [
+        {
+          "text": "Telle a \u00e9t\u00e9 cette journ\u00e9e en Suisse et dans le monde \u00e0 notre connaissance",
+          "isCorrect": true
+        },
+        {
+          "text": "Missa dita est",
+          "isCorrect": false
+        },
+        {
+          "text": "That's all folks",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle s\u00e9rie a rassembl\u00e9 Bernard, L\u00e9a, Julie, Marco et Cl\u00e9metine dans leur chalet?",
+      "answers": [
+        {
+          "text": "Les Pique-Meurons",
+          "isCorrect": true
+        },
+        {
+          "text": "Bienvenue en Suisse",
+          "isCorrect": false
+        },
+        {
+          "text": "Au chalet, mon chalet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel oiseau souhaitait bonne nuit aux enfants dans les ann\u00e9es 1980?",
+      "answers": [
+        {
+          "text": "Dodu dodo",
+          "isCorrect": true
+        },
+        {
+          "text": "Pingu",
+          "isCorrect": false
+        },
+        {
+          "text": "Globi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1995, Joseph Gorgoni, connu pour son personnage de Marie-Th\u00e9r\u00e8se Porchet, appara\u00eet dans une s\u00e9rie fiction. Laquelle?",
+      "answers": [
+        {
+          "text": "La petite famille",
+          "isCorrect": true
+        },
+        {
+          "text": "Les Pique-Meurons",
+          "isCorrect": false
+        },
+        {
+          "text": "Photo-S\u00e9vices",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pour quelle raison l'\u00e9mission de cam\u00e9ra cach\u00e9e Le Petit Poisson est-elle rest\u00e9e dans les m\u00e9moires?",
+      "answers": [
+        {
+          "text": "La chanson du g\u00e9n\u00e9rique",
+          "isCorrect": true
+        },
+        {
+          "text": "L'humour vaudois",
+          "isCorrect": false
+        },
+        {
+          "text": "La c\u00e9l\u00e9brit\u00e9 internationale des victimes de la cam\u00e9ra cach\u00e9e",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Avant de pr\u00e9senter Mise au Point aux c\u00f4t\u00e9s de l'animateur Yvan Fr\u00e9sard, quelle \u00e9mission pr\u00e9sentait Catherine Sommer ?",
+      "answers": [
+        {
+          "text": "Jeux Sans Fronti\u00e8res",
+          "isCorrect": true
+        },
+        {
+          "text": "Geopolitis",
+          "isCorrect": false
+        },
+        {
+          "text": "G\u00e9n\u00e9rations",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Georges Baumgartner, journaliste correspondant pour la Radio Suisse Romande depuis 1982 est c\u00e9l\u00e8bre pour sa phrase...",
+      "answers": [
+        {
+          "text": "Georges Baumgartner, Radio Suisse Romande, Tokyo",
+          "isCorrect": true
+        },
+        {
+          "text": "Georges Baumgartner, en direct  du Japon",
+          "isCorrect": false
+        },
+        {
+          "text": "Georges Baumgartner, \u00e0 vous le studio",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Patrick Dujany, animateur pass\u00e9 par Couleur 3 et la premi\u00e8re est plus connu sous le nom de \u2026",
+      "answers": [
+        {
+          "text": "Duja",
+          "isCorrect": true
+        },
+        {
+          "text": "Paju",
+          "isCorrect": false
+        },
+        {
+          "text": "Padu",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Ren\u00e9 Payot, c\u00e9l\u00e8bre reporter suisse a donn\u00e9 son nom \u00e0 une bourse. Qui r\u00e9compense-t-elle?",
+      "answers": [
+        {
+          "text": "Un animateur",
+          "isCorrect": true
+        },
+        {
+          "text": "Un aspirant journaliste",
+          "isCorrect": false
+        },
+        {
+          "text": "Une speakerine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel \u00e9tait le principe de l'\u00e9mission d'Aqua Concert ?",
+      "answers": [
+        {
+          "text": "L'op\u00e9ra racont\u00e9 avec humour",
+          "isCorrect": true
+        },
+        {
+          "text": "Sketchs chant\u00e9s au bord de l'eau",
+          "isCorrect": false
+        },
+        {
+          "text": "L'essentiel de l'actualit\u00e9 musicale en Suisse romande",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Claude Blanc a interpr\u00e9t\u00e9 avec succ\u00e8s un personnage na\u00eff et dr\u00f4le \u00e0 la voix nasillarde. De qui s'agit-il ?",
+      "answers": [
+        {
+          "text": "Oin-Oin",
+          "isCorrect": true
+        },
+        {
+          "text": "Albert le Vert",
+          "isCorrect": false
+        },
+        {
+          "text": "Saturnin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle \u00e9mission humoristique propose des d\u00e9finitions loufoques?",
+      "answers": [
+        {
+          "text": "Les Dicodeurs",
+          "isCorrect": true
+        },
+        {
+          "text": "L'Agence",
+          "isCorrect": false
+        },
+        {
+          "text": "La Soupe",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle \u00e9mission faisait escale dans les localit\u00e9s romandes, permettant aux auditeurs d'en conna\u00eetre l'histoire, les particularit\u00e9s et le surnom des habitants?",
+      "answers": [
+        {
+          "text": "F\u00eate comme chez vous",
+          "isCorrect": true
+        },
+        {
+          "text": "Bonjour chez vous",
+          "isCorrect": false
+        },
+        {
+          "text": "C'est l'heure de l'ap\u00e9ro",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pourquoi l'\u00e9mission de Jean-Marc Richard s'appelait les z\u00e8bres?",
+      "answers": [
+        {
+          "text": "A cause des lignes rouges sur le camping-car qui faisaient penser \u00e0 un dr\u00f4le de z\u00e8bre",
+          "isCorrect": true
+        },
+        {
+          "text": "Jean-Marc Richard est surnomm\u00e9 le Zebre",
+          "isCorrect": false
+        },
+        {
+          "text": "Cela a \u00e9t\u00e9 inspir\u00e9 par le roman d\u2019Alexandre Jardin du m\u00eame titre",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Que pouvait-on entendre dans l'\u00e9mission satyrique Mardi les Gars anim\u00e9e par d'Emile Gardaz et Michel D\u00e9n\u00e9riaz?",
+      "answers": [
+        {
+          "text": "Sketchs et chansons",
+          "isCorrect": true
+        },
+        {
+          "text": "Des recettes de terroir",
+          "isCorrect": false
+        },
+        {
+          "text": "Des po\u00e8mes",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Arlette, Madeleine et Ilham ont un point commun. Lequel?",
+      "answers": [
+        {
+          "text": "Elles ont \u00e9t\u00e9 speakerines",
+          "isCorrect": true
+        },
+        {
+          "text": "Elles ont pr\u00e9sent\u00e9 la m\u00e9t\u00e9o",
+          "isCorrect": false
+        },
+        {
+          "text": "Elles ont \u00e9t\u00e9 pr\u00e9sentatrices",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Lanc\u00e9e en 1997, la cha\u00eene TSR2 en a remplac\u00e9 une autre. Comment s'appelait-elle?",
+      "answers": [
+        {
+          "text": "Suisse 4",
+          "isCorrect": true
+        },
+        {
+          "text": "Canal Romand",
+          "isCorrect": false
+        },
+        {
+          "text": "HelveTV",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle \u00e9tait la particularit\u00e9 du journaliste sportif Vico Rigassi?",
+      "answers": [
+        {
+          "text": "Commentateur trilingue de matchs de hockey",
+          "isCorrect": true
+        },
+        {
+          "text": "Il a \u00e9t\u00e9 footballeur de l'\u00e9quipe nationale suisse",
+          "isCorrect": false
+        },
+        {
+          "text": "Il avait un d\u00e9faut de prononciation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 2009, un c\u00e9l\u00e8bre acteur a termin\u00e9 la pr\u00e9sentation du TJ \u00e0 la  place de Darius Rochebin. Qui \u00e9tait-ce?",
+      "answers": [
+        {
+          "text": "Roberto Benigni",
+          "isCorrect": true
+        },
+        {
+          "text": "Beno\u00eet Poelvoorde",
+          "isCorrect": false
+        },
+        {
+          "text": "Fabrice Luchini",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A quelle occasion le commentateur Philippe Von Burg a dit \"Les Argentins ont d\u00e9j\u00e0 le Pape, nous on devait avoir J\u00e9sus!\"?",
+      "answers": [
+        {
+          "text": "Match de huiti\u00e8me de finale de la Coupe du Monde 2014 entre Suisse et Argentine",
+          "isCorrect": true
+        },
+        {
+          "text": "Les Jeux olympiques 2016",
+          "isCorrect": false
+        },
+        {
+          "text": "Les mondiaux de curling 2015",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle a \u00e9t\u00e9 la premi\u00e8re femme journaliste sportive \u00e0 la t\u00e9l\u00e9vision?",
+      "answers": [
+        {
+          "text": "Anne-Marie Portol\u00e8s",
+          "isCorrect": true
+        },
+        {
+          "text": "Isabelle Nussbaum",
+          "isCorrect": false
+        },
+        {
+          "text": "Marie-Laure Viola",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "De quelle grande manifestation cycliste la RTS est partenaire?",
+      "answers": [
+        {
+          "text": "Le Tour de Romandie",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Tour de France",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Tour de Suisse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle est la diff\u00e9rence entre le 19h30 sur RTS Un et le 19h30 sur RTS Deux",
+      "answers": [
+        {
+          "text": "Le 19h30 est propos\u00e9 sur RTS Deux en langage des signes",
+          "isCorrect": true
+        },
+        {
+          "text": "Le 19h30 est sous-titr\u00e9 sur RTS Deux",
+          "isCorrect": false
+        },
+        {
+          "text": "Il est diffus\u00e9 en SD sur RTS Deux et en HD sur RTS Un",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel poste a occup\u00e9 Fran\u00e7ois Benedetti apr\u00e8s avoir \u00e9t\u00e9 chef d'antenne de Couleur 3?",
+      "answers": [
+        {
+          "text": "M\u00e9t\u00e9orologue et producteur de l'\u00e9mission Atlas",
+          "isCorrect": true
+        },
+        {
+          "text": "Spin doctor de Daniel Br\u00e9laz",
+          "isCorrect": false
+        },
+        {
+          "text": "Correspondant au Palais f\u00e9d\u00e9ral",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Qui \u00e9taient les invit\u00e9s de l'\u00e9mission Les Oiseaux de Nuit de Bernard Pichon?",
+      "answers": [
+        {
+          "text": "Des artistes",
+          "isCorrect": true
+        },
+        {
+          "text": "Des f\u00eatards",
+          "isCorrect": false
+        },
+        {
+          "text": "Des ornithologues",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Que signifie DAB, acronyme associ\u00e9 \u00e0 la radio?",
+      "answers": [
+        {
+          "text": "Digital Audio Broadcasting",
+          "isCorrect": true
+        },
+        {
+          "text": "Donn\u00e9es d'Audience selon Bell",
+          "isCorrect": false
+        },
+        {
+          "text": "Direct Advertisement Buying",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Qui cr\u00e9a des centaines de chor\u00e9graphies pour Mosa\u00efque et Samedi-Vari\u00e9t\u00e9s?",
+      "answers": [
+        {
+          "text": "Brigitte Matteuzzi",
+          "isCorrect": true
+        },
+        {
+          "text": "Maurice B\u00e9jart",
+          "isCorrect": false
+        },
+        {
+          "text": "Amadeo",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Outre Lolita Morena, quelle pr\u00e9sentatrice m\u00e9t\u00e9o a \u00e9galement \u00e9t\u00e9 Miss Suisse?",
+      "answers": [
+        {
+          "text": "Val\u00e9rie Bovard",
+          "isCorrect": true
+        },
+        {
+          "text": "Dominique Schibli",
+          "isCorrect": false
+        },
+        {
+          "text": "Maria Mettral",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Selon Jean-Luc Godard, pour quelle raison les acteurs se rendent-ils \u00e0 Cannes?",
+      "answers": [
+        {
+          "text": "Pour se montrer. Cannes est une simple vitrine",
+          "isCorrect": true
+        },
+        {
+          "text": "Pour rencontrer l'industrie du cin\u00e9ma et d\u00e9crocher un futur r\u00f4le",
+          "isCorrect": false
+        },
+        {
+          "text": "Pour faire leurs emplettes du printemps",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1982,  quelle m\u00e9thode de communication, retransmise par le Journal Romand, adopte Dani\u00e8le Br\u00e9laz pour faire conna\u00eetre le parti Groupement pour la protection de l'environnement?",
+      "answers": [
+        {
+          "text": "Il fait l'homme-sandwich et distribue des flyers dans les rues de Lausanne",
+          "isCorrect": true
+        },
+        {
+          "text": "Il organise des conf\u00e9rences \u00e9lectorales sur des ponts autoroutiers",
+          "isCorrect": false
+        },
+        {
+          "text": "Il cr\u00e9e une s\u00e9rie de cravates aux couleurs du parti",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle pr\u00e9sentatrice m\u00e9t\u00e9o a jou\u00e9 dans la s\u00e9rie Bigoudi?",
+      "answers": [
+        {
+          "text": "Maria Mettral",
+          "isCorrect": true
+        },
+        {
+          "text": "Val\u00e9rie Bovard",
+          "isCorrect": false
+        },
+        {
+          "text": "Claudia M\u00e9lanjoie-Dit-Savoie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Que \u00e9tait le pr\u00e9sentateur vedette m\u00e9t\u00e9o des ann\u00e9es 70?",
+      "answers": [
+        {
+          "text": "Jean-Daniel Altherr",
+          "isCorrect": true
+        },
+        {
+          "text": "Pierre Lang",
+          "isCorrect": false
+        },
+        {
+          "text": "Bernard Pichon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dans Pique-Assiette invite les chefs, o\u00f9 Annick Jeanmairet re\u00e7oit-elle des chefs cuisiniers?",
+      "answers": [
+        {
+          "text": "Dans sa cuisine",
+          "isCorrect": true
+        },
+        {
+          "text": "Dans les restaurants de grands chefs",
+          "isCorrect": false
+        },
+        {
+          "text": "Dans un studio TV",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Comment commence l'\u00e9mission \"Descente en cuisine\"?",
+      "answers": [
+        {
+          "text": "Par un saut en parachute",
+          "isCorrect": true
+        },
+        {
+          "text": "Par un saut \u00e0 l'\u00e9lastique",
+          "isCorrect": false
+        },
+        {
+          "text": "En ski nautique",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Parall\u00e8lement \u00e0 Grand Angle, S\u00e9bastien Rey pr\u00e9sente\u2026",
+      "answers": [
+        {
+          "text": "Al Dente",
+          "isCorrect": true
+        },
+        {
+          "text": "Cash",
+          "isCorrect": false
+        },
+        {
+          "text": "G\u00e9n\u00e9rations",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 2016, combien la SSR compte-t-elle de cha\u00eenes radio?",
+      "answers": [
+        {
+          "text": 17,
+          "isCorrect": true
+        },
+        {
+          "text": 10,
+          "isCorrect": false
+        },
+        {
+          "text": 25,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel jour de la semaine est diffus\u00e9 Mise au point?",
+      "answers": [
+        {
+          "text": "Dimanche",
+          "isCorrect": true
+        },
+        {
+          "text": "Mercredi",
+          "isCorrect": false
+        },
+        {
+          "text": "Mardi",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel animal accompagnait Martina Chyba durant l'\u00e9mission C'est la jungle?",
+      "answers": [
+        {
+          "text": "Un gorille",
+          "isCorrect": true
+        },
+        {
+          "text": "Une mygale",
+          "isCorrect": false
+        },
+        {
+          "text": "Un perroquet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel est le magazine TV qui a la plus grande long\u00e9vit\u00e9 \u00e0 l'antenne ?",
+      "answers": [
+        {
+          "text": "Temps Pr\u00e9sent",
+          "isCorrect": true
+        },
+        {
+          "text": "Passe-moi les Jumelles",
+          "isCorrect": false
+        },
+        {
+          "text": "A Bon Entendeur",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel dispositif \u00e9vite aux journalistes d'apprendre leurs textes par c\u0153ur?",
+      "answers": [
+        {
+          "text": "Un prompteur",
+          "isCorrect": true
+        },
+        {
+          "text": "Un t\u00e9l\u00e9scripteur",
+          "isCorrect": false
+        },
+        {
+          "text": "Un souffleur",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Le 6 d\u00e9cembre 1992, le TJ enregistre un record d'audience pour quel \u00e9v\u00e9nement?",
+      "answers": [
+        {
+          "text": "Le Non des Suisses \u00e0 l'Europe",
+          "isCorrect": true
+        },
+        {
+          "text": "La chute du Mur de Berlin",
+          "isCorrect": false
+        },
+        {
+          "text": "La victoire de l'\u00e9quipe de Suisse \u00e0 l'Euro'92",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pour quel \u00e9v\u00e8nement la TSR r\u00e9alise un projet de studio sur le bateau \"Id\u00e9e suisse\"?",
+      "answers": [
+        {
+          "text": "Expo02",
+          "isCorrect": true
+        },
+        {
+          "text": "Alinghi - Coupe de l'America",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Bol D'Or",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "All\u00f4 Colette a \u00e9t\u00e9 une \u00e9mission phare de Radio Gen\u00e8ve. Quel \u00e9tait son principe?",
+      "answers": [
+        {
+          "text": "D\u00e9nicher des morceaux de musique demand\u00e9es par les auditeurs",
+          "isCorrect": true
+        },
+        {
+          "text": "Ecouter les dol\u00e9ances des auditeurs",
+          "isCorrect": false
+        },
+        {
+          "text": "Appeler la star Colette pour lui dire bonjour",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Que contient la rubrique \"rep\u00e9rages web\" du site RTSinfo?",
+      "answers": [
+        {
+          "text": "Des vid\u00e9os qui font le buzz",
+          "isCorrect": true
+        },
+        {
+          "text": "Des articles issus d'informations d\u00e9couvertes sur Internet",
+          "isCorrect": false
+        },
+        {
+          "text": "Des logiciels gratuits",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Lors de l'inauguration du nouveau zoo de la Garenne en 2016, la RTS a test\u00e9 un nouveau dispositif multim\u00e9dia, lequel?",
+      "answers": [
+        {
+          "text": "La vid\u00e9o \u00e0 360\u00b0",
+          "isCorrect": true
+        },
+        {
+          "text": "Le capteur olfactif",
+          "isCorrect": false
+        },
+        {
+          "text": "Les images en 3D",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel est le premier \u00e9v\u00e9nement suivi minute par minute \u00e0 avoir attir\u00e9 plus d'un million d'internautes sur le site RTSinfo?",
+      "answers": [
+        {
+          "text": "L'\u00e9lection pr\u00e9sidentielle fran\u00e7aise de 2012",
+          "isCorrect": true
+        },
+        {
+          "text": "Le mariage de Kate et William",
+          "isCorrect": false
+        },
+        {
+          "text": "Les \u00e9lections f\u00e9d\u00e9rales de 2015",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "L'ann\u00e9e 2004 est particuli\u00e8re pour Jean-Charles Simon, que s'est il pass\u00e9?",
+      "answers": [
+        {
+          "text": "Suite \u00e0 une crise de paludisme il a \u00e9t\u00e9 plong\u00e9 dans le coma",
+          "isCorrect": true
+        },
+        {
+          "text": "Il a \u00e9pous\u00e9 Miss Suisse",
+          "isCorrect": false
+        },
+        {
+          "text": "Il a march\u00e9 sur le chemin espagnol de Saint-Jacques de Compostelle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dans les ann\u00e9es 80, la TSR fait appel \u00e0 Christian Morin pour pr\u00e9senter La Grande Roue, Studio 4 et Tr\u00e8fle d'or. Homme de t\u00e9l\u00e9vision et com\u00e9dien, il a  une autre passion. Laquelle?",
+      "answers": [
+        {
+          "text": "La clarinette",
+          "isCorrect": true
+        },
+        {
+          "text": "Le cyclisme",
+          "isCorrect": false
+        },
+        {
+          "text": "La course automobile",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1982 et 1983, Julien Lepers a un lien avec l'\u00e9mission C\u0153ur en F\u00eate, quel est-il?",
+      "answers": [
+        {
+          "text": "Il pr\u00e9sente l'\u00e9mission",
+          "isCorrect": true
+        },
+        {
+          "text": "Il vient r\u00e9guli\u00e8rement chanter sur le plateau de l'\u00e9mission",
+          "isCorrect": false
+        },
+        {
+          "text": "Il cr\u00e9e la musique du g\u00e9n\u00e9rique de l'\u00e9misison",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Comment est l\u2019invit\u00e9 de Manuella Maury \u00e0 la fin de l\u2019\u00e9mission A C\u00f4t\u00e9 de la Plaque?",
+      "answers": [
+        {
+          "text": "Cuit",
+          "isCorrect": true
+        },
+        {
+          "text": "Mijot\u00e9",
+          "isCorrect": false
+        },
+        {
+          "text": "Mang\u00e9",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En quelle ann\u00e9e est apparue la premi\u00e8re speakerine sur une cha\u00eene francophone?",
+      "answers": [
+        {
+          "text": 1935,
+          "isCorrect": true
+        },
+        {
+          "text": 1947,
+          "isCorrect": false
+        },
+        {
+          "text": 1951,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Chaque lundi de 1946 \u00e0 1989, les aventures du c\u00e9l\u00e8bre d\u00e9tective Roland Durtal captivent les Romands. Quel est le nom de la s\u00e9rie d'\u00e9missions?",
+      "answers": [
+        {
+          "text": "Enigmes et Aventures",
+          "isCorrect": true
+        },
+        {
+          "text": "Les enqu\u00eates de Durtal",
+          "isCorrect": false
+        },
+        {
+          "text": "La pi\u00e8ce polici\u00e8re radiophonique",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle technologie est introduite en 2004 avec \u201cLe son du jour\u201d de Couleur 3 comme contenu test?",
+      "answers": [
+        {
+          "text": "Le podcasting",
+          "isCorrect": true
+        },
+        {
+          "text": "Le flux RSS",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Web 3.0",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1967, quelle petite nouveaut\u00e9 va r\u00e9volutionner la t\u00e9l\u00e9vision?",
+      "answers": [
+        {
+          "text": "L'apparition des premi\u00e8res images en couleur",
+          "isCorrect": true
+        },
+        {
+          "text": "Les programmes sont pr\u00e9sent\u00e9s par des speakerines",
+          "isCorrect": false
+        },
+        {
+          "text": "Le public peut choisir le film du lundi soir",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1965, quel nouveau type de contenu dont La loi impose qu'il soit introduit par un petit jingle (sous forme de dessin anim\u00e9) est introduit \u00e0 la t\u00e9l\u00e9vision romande?",
+      "answers": [
+        {
+          "text": "Les spots publicitaires",
+          "isCorrect": true
+        },
+        {
+          "text": "Les infos trafic",
+          "isCorrect": false
+        },
+        {
+          "text": "Les \u00e9missions pour la jeunesse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A l'\u00e9poque des premiers spots publicitaires \u00e0 la TV, combien de temps d'antenne leur \u00e9tait consacr\u00e9 quotidiennement?",
+      "answers": [
+        {
+          "text": "12 minutes",
+          "isCorrect": true
+        },
+        {
+          "text": "36 minutes",
+          "isCorrect": false
+        },
+        {
+          "text": "60 minutes",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel est le docteur qui officiait dans \"Rock et Belles Oreilles\u201d, \u00e9mission explorant les nouvelles tendances du d\u00e9but des ann\u00e9es 80?",
+      "answers": [
+        {
+          "text": "Docteur Minestrone",
+          "isCorrect": true
+        },
+        {
+          "text": "Docteur Maboule",
+          "isCorrect": false
+        },
+        {
+          "text": "Docteur Choron",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "De 2000 \u00e0 2012, Patrick Ferla re\u00e7oit \u00e0 son micro des \u00e9crivains, musiciens et autres personnalit\u00e9s culturelles. Quelle est le nom de son \u00e9mission?",
+      "answers": [
+        {
+          "text": "Presque Rien Sur Presque Tout",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Petit-D\u00e9je\u00fbner",
+          "isCorrect": false
+        },
+        {
+          "text": "Entre Nous Soit Dit",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Propos\u00e9e de 1941 \u00e0 1949, Le Quart d'Heure Vaudois \u00e9tait une chronique radio rassemblant autour d'un verre de blanc..",
+      "answers": [
+        {
+          "text": "Un syndic, un r\u00e9gent et un caviste",
+          "isCorrect": true
+        },
+        {
+          "text": "Un restaurateur, un pasteur et un r\u00e9gent",
+          "isCorrect": false
+        },
+        {
+          "text": "Un animateur radio, un caviste et un r\u00e9gent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1955, le compositeur et pianiste Francis Poulenc, en s\u00e9jour \u00e0 Evian, vient enregistrer ses \u0153uvres au studio de Radio-Lausanne. Mais que faisait-il \u00e0 Evian?",
+      "answers": [
+        {
+          "text": "Il y suivait une cure thermale",
+          "isCorrect": true
+        },
+        {
+          "text": "Il y organisait un festival de musique fran\u00e7aise",
+          "isCorrect": false
+        },
+        {
+          "text": "Il y passait des vacances incognito avec son compagnon, Raymond Destouches",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En quoi l'\u00e9mission Nouvo, lanc\u00e9e en 2004, joue-t-elle un r\u00f4le de pr\u00e9curseur ?",
+      "answers": [
+        {
+          "text": "C'est la premi\u00e8re \u00e9mission \u00e0 poss\u00e9der son propre site Internet.",
+          "isCorrect": true
+        },
+        {
+          "text": "C'est la premi\u00e8re \u00e9mission d\u00e9di\u00e9e aux jeux vid\u00e9os.",
+          "isCorrect": false
+        },
+        {
+          "text": "C'est la premi\u00e8re \u00e9mission qui est r\u00e9alis\u00e9e uniquement par des stagiaires.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "L'\u00e9mission G\u00e9opolitis, lanc\u00e9e en 2008 est la premi\u00e8re \u00e0 recourir \u00e0 un dispositif technique particulier. Lequel?",
+      "answers": [
+        {
+          "text": "Un studio virtuel",
+          "isCorrect": true
+        },
+        {
+          "text": "Une cam\u00e9ra sur dr\u00f4ne",
+          "isCorrect": false
+        },
+        {
+          "text": "Une cam\u00e9ra \u00e0 360 degr\u00e9s",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A quel personnage d'\u00e9mission pour enfants Fran\u00e7ois Silvant a-t-il pr\u00eat\u00e9 sa voix ?",
+      "answers": [
+        {
+          "text": "Facteur Hyacinthe",
+          "isCorrect": true
+        },
+        {
+          "text": "Dodu Dodo",
+          "isCorrect": false
+        },
+        {
+          "text": "Gaspard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle c\u00e9l\u00e9brit\u00e9 anglaise a fait une apparition dans la s\u00e9rie suisse Photo-S\u00e9vices?",
+      "answers": [
+        {
+          "text": "Pete Doherty",
+          "isCorrect": true
+        },
+        {
+          "text": "Robbie Williams",
+          "isCorrect": false
+        },
+        {
+          "text": "No\u00ebl Gallagher",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En quelle ann\u00e9e la T\u00e9l\u00e9vision Suisse Romande diffuse-t-elle en couleur?",
+      "answers": [
+        {
+          "text": 1968,
+          "isCorrect": true
+        },
+        {
+          "text": 1974,
+          "isCorrect": false
+        },
+        {
+          "text": 1954,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1996 la TSR entre au \"Guiness Book of Records\" pour l'\u00e9mission la plus longue au monde. A l'occasion de quel \u00e9v\u00e9nement?",
+      "answers": [
+        {
+          "text": "Les Jeux Olympiques d'Atlanta",
+          "isCorrect": true
+        },
+        {
+          "text": "Les Coups de C\u0153ur d'Alain Morisod",
+          "isCorrect": false
+        },
+        {
+          "text": "La Coupe du Monde de Football",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A partir du 1er janvier 1982, le T\u00e9l\u00e9journal est diffus\u00e9 en direct depuis les studios de la t\u00e9l\u00e9vision \u00e0 Gen\u00e8ve. Depuis quelle ville \u00e9tait-il diffus\u00e9 auparavant?",
+      "answers": [
+        {
+          "text": "Z\u00fcrich",
+          "isCorrect": true
+        },
+        {
+          "text": "Lausanne",
+          "isCorrect": false
+        },
+        {
+          "text": "Sottens",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle \u00e9mission a montr\u00e9 trois volontaires film\u00e9s sous LSD ?",
+      "answers": [
+        {
+          "text": "Continents Sans Visa",
+          "isCorrect": true
+        },
+        {
+          "text": "Temps Pr\u00e9sent",
+          "isCorrect": false
+        },
+        {
+          "text": "Mise Au Point",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "L\u2019\u00e9mission Continents Sans Visa a retrac\u00e9 la premi\u00e8re ascension r\u00e9ussie de quelle montagne ?",
+      "answers": [
+        {
+          "text": "La face Nord de l'Eiger",
+          "isCorrect": true
+        },
+        {
+          "text": "La pointe Dufour",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Grand Combin",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "L\u2019\u00e9mission humoristique de vari\u00e9t\u00e9 diffus\u00e9e \u00e0 la TSR entre 1986 et 1998 avait un nom radiophonique. Quel \u00e9tait-il?",
+      "answers": [
+        {
+          "text": "Carabine FM",
+          "isCorrect": true
+        },
+        {
+          "text": "Nuls FM",
+          "isCorrect": false
+        },
+        {
+          "text": "Radio Calaculta",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pourquoi l'\u00e9mission L'opinion De L'homme De La Rue a n\u00e9cessit\u00e9 l'aide des gendarmes \u00e0 Nyon en 1940?",
+      "answers": [
+        {
+          "text": "Les gens se battaient pour r\u00e9pondre au micro",
+          "isCorrect": true
+        },
+        {
+          "text": "L'animateur \u00e9tait torse-nu",
+          "isCorrect": false
+        },
+        {
+          "text": "Des pickpockets profitaient du rassemblement",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel \u00e9tait le but de l'installation du premier \u00e9metteur \u00e0 Lausanne en 1922?",
+      "answers": [
+        {
+          "text": "Transmettre la m\u00e9t\u00e9o aux avions reliant Paris \u00e0 Lausanne",
+          "isCorrect": true
+        },
+        {
+          "text": "Pour les transmissions de l'Arm\u00e9e",
+          "isCorrect": false
+        },
+        {
+          "text": "Pour communiquer avec la France voisine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel m\u00e9tier Marie-Claude Leburgue fut la premi\u00e8re femme \u00e0 exercer d\u00e8s 1947?",
+      "answers": [
+        {
+          "text": "La premi\u00e8re femme radio-reporter",
+          "isCorrect": true
+        },
+        {
+          "text": "Chauffeur de cars TV",
+          "isCorrect": false
+        },
+        {
+          "text": "Camerawoman",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dans l'\u00e9mission Le Plat Du Jour, que donnait Albert Muret pendant la guerre?",
+      "answers": [
+        {
+          "text": "De savoureuses recettes",
+          "isCorrect": true
+        },
+        {
+          "text": "Des nouvelles militaires cod\u00e9es",
+          "isCorrect": false
+        },
+        {
+          "text": "Des interviews au restaurant",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dans l'\u00e9mission La Course Autour Du Monde, que devaient livrer chaque semaine les jeunes reporters francophones partis \u00e0 l'aventure?",
+      "answers": [
+        {
+          "text": "Un reportage exclusif",
+          "isCorrect": true
+        },
+        {
+          "text": "L'interview du dirigeant du pays visit\u00e9",
+          "isCorrect": false
+        },
+        {
+          "text": "Un film documentaire sur le pays",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel est le point commun entre l'h\u00e9ro\u00efne de la s\u00e9rie Boulevard du Palais et l'animateur de La Ligne de C\u0153ur?",
+      "answers": [
+        {
+          "text": "Ils sont fr\u00e8res et s\u0153urs",
+          "isCorrect": true
+        },
+        {
+          "text": "Ils sont mari et femme",
+          "isCorrect": false
+        },
+        {
+          "text": "Ils sont cousins",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pour quelle \u00e9mission t\u00e9l\u00e9vis\u00e9e Vincent Kucholl avait-il une chronique humoristique ?",
+      "answers": [
+        {
+          "text": "Mise au Point",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Fond de la Corbeille",
+          "isCorrect": false
+        },
+        {
+          "text": "TTC",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "L'\u00e9mission de Couleur 3 Downtown Boogie est consacr\u00e9e \u00e0 un courant musical. Lequel ?",
+      "answers": [
+        {
+          "text": "hip-hop",
+          "isCorrect": true
+        },
+        {
+          "text": "jazz",
+          "isCorrect": false
+        },
+        {
+          "text": "electro",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel anniversaire a f\u00eat\u00e9 la cha\u00eene Option Musique en 2014?",
+      "answers": [
+        {
+          "text": "Les 20 ans d'Option Musique",
+          "isCorrect": true
+        },
+        {
+          "text": "Les 45 ans de Temps Pr\u00e9sent",
+          "isCorrect": false
+        },
+        {
+          "text": "Les 50 ans du Montreux Jazz Festival",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sur quelle cha\u00eene de la RTS est diffus\u00e9e l'\u00e9mission JazzZ pr\u00e9sent\u00e9e par Yvan Ischer et Ivor Malherbe?",
+      "answers": [
+        {
+          "text": "Espace 2",
+          "isCorrect": true
+        },
+        {
+          "text": "La Premi\u00e8re",
+          "isCorrect": false
+        },
+        {
+          "text": "Option Musique",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle est la cha\u00eene radio qui axe sa programmation musicale sur le r\u00e9pertoire de la chanson francophone?",
+      "answers": [
+        {
+          "text": "Option Musique",
+          "isCorrect": true
+        },
+        {
+          "text": "Couleur 3",
+          "isCorrect": false
+        },
+        {
+          "text": "La Premi\u00e8re",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel type d\u2019\u00e9mission radio suisse a figur\u00e9 au Guiness World Records\u00a0en 2009 pour \u00eatre la plus ancienne \u00e9mission au monde?",
+      "answers": [
+        {
+          "text": "Une \u00e9mission d'information",
+          "isCorrect": true
+        },
+        {
+          "text": "Un jeu",
+          "isCorrect": false
+        },
+        {
+          "text": "Une diffusion de culte",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A quelle date la publicit\u00e9 est-elle diffus\u00e9e pour la premi\u00e8re fois sur les cha\u00eenes suisses?",
+      "answers": [
+        {
+          "text": 1965,
+          "isCorrect": true
+        },
+        {
+          "text": 1939,
+          "isCorrect": false
+        },
+        {
+          "text": 1927,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "De quel th\u00e8me traitait l'\u00e9mission de t\u00e9l\u00e9vision H\u00f4tel?",
+      "answers": [
+        {
+          "text": "De litt\u00e9rature",
+          "isCorrect": true
+        },
+        {
+          "text": "De voyage",
+          "isCorrect": false
+        },
+        {
+          "text": "De cin\u00e9ma \u00e9rotique",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pour le film Les Amants de la Dent Blanche, co-produit par la RTS, qu'ont d\u00fb revetir les figurants de la r\u00e9gion du Val d'H\u00e9rens?",
+      "answers": [
+        {
+          "text": "Des costumes du 19\u00e8me si\u00e8cle",
+          "isCorrect": true
+        },
+        {
+          "text": "Des costumes d'armaillis",
+          "isCorrect": false
+        },
+        {
+          "text": "Des costumes du Pays de Savoie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel est le concept de l\u2019\u00e9mission de t\u00e9l\u00e9r\u00e9alit\u00e9 Mayen 1903 produite par B\u00e9atrice Barton?",
+      "answers": [
+        {
+          "text": "Une famille vit pendant deux mois dans un mayen comme en 1903",
+          "isCorrect": true
+        },
+        {
+          "text": "Des c\u00e9l\u00e9brit\u00e9s se retrouvent \u00e0 la ferme \u00e0 Collonges (CP: 1903)",
+          "isCorrect": false
+        },
+        {
+          "text": "Des artistes g\u00e8rent 1903 animaux pendant une semaine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel nouveau m\u00e9tier est apparu en 1998 lors de la cr\u00e9ation des bureaux r\u00e9gionaux pour l'Actualit\u00e9?",
+      "answers": [
+        {
+          "text": "Journaliste Reporter Images",
+          "isCorrect": true
+        },
+        {
+          "text": "Chroniqueur des R\u00e9gions",
+          "isCorrect": false
+        },
+        {
+          "text": "Journaliste de d\u00e9crochage",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel \u00e9v\u00e9nement culturel a marqu\u00e9 les quarante ans de la TSR?",
+      "answers": [
+        {
+          "text": "Une fresque monumentale",
+          "isCorrect": true
+        },
+        {
+          "text": "Une exposition phare \u00e0 Paris",
+          "isCorrect": false
+        },
+        {
+          "text": "Une \u00e9mission intitul\u00e9e Rendez-vous avec les Archives",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel type de cours le linguiste Maurice Bossard a-t-il donn\u00e9 \u00e0 des journalistes de la RTS ?",
+      "answers": [
+        {
+          "text": "Bien prononcer les noms de lieux",
+          "isCorrect": true
+        },
+        {
+          "text": "Techniques d'improvisations  durant un direct",
+          "isCorrect": false
+        },
+        {
+          "text": "L'art de la reformulation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Comment Couleur 3 a marqu\u00e9 son trenti\u00e8me anniversaire dans le M2 de Lausanne?",
+      "answers": [
+        {
+          "text": "En diffusant ses propres enregistrements au lieu des jingle habituels annon\u00e7ant les arr\u00eats de ligne",
+          "isCorrect": true
+        },
+        {
+          "text": "Par une campagne d'affichage dans les stations",
+          "isCorrect": false
+        },
+        {
+          "text": "Une \u00e9mission sp\u00e9ciale dans une rame du M2",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Le 21 mars 2011, qu'ont-entendu les auditeurs de Couleur 3 toute la journ\u00e9e?",
+      "answers": [
+        {
+          "text": "Des bruits de f\u00f4rets",
+          "isCorrect": true
+        },
+        {
+          "text": "Des bruits de bistrots",
+          "isCorrect": false
+        },
+        {
+          "text": "Des solli de guitare",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel \u00e9tait l'accessoire indissociable du journaliste animalier Pierre Lang ?",
+      "answers": [
+        {
+          "text": "La pipe",
+          "isCorrect": true
+        },
+        {
+          "text": "Le fouet",
+          "isCorrect": false
+        },
+        {
+          "text": "Le collier \u00e0 clou",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Une fois par mois, \"Monsieur Jardinier\" devient \u2026 ?",
+      "answers": [
+        {
+          "text": "Monsieur V\u00e9t\u00e9rinaire",
+          "isCorrect": true
+        },
+        {
+          "text": "Monsieur Cuisinier",
+          "isCorrect": false
+        },
+        {
+          "text": "Madame Jardini\u00e8re",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Une technologie est utilis\u00e9e sur le plateau des sports depuis l'Euro 2016?",
+      "answers": [
+        {
+          "text": "La r\u00e9alit\u00e9 augment\u00e9e",
+          "isCorrect": true
+        },
+        {
+          "text": "La 4K",
+          "isCorrect": false
+        },
+        {
+          "text": "Les hologrammes",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle pr\u00e9sentatrice m\u00e9t\u00e9o a jou\u00e9 dans la s\u00e9rie \"Bigoudi\"    Actrice genevoise, elle a fait la pluie et le beau temps dans la sitcom TSR \"Bigoudi",
+      "answers": [
+        {
+          "text": "Maria Mettral",
+          "isCorrect": true
+        },
+        {
+          "text": "Val\u00e9rie Bovart",
+          "isCorrect": false
+        },
+        {
+          "text": "Claudia M\u00e9lanjoie-Dit-Savoie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1962, la TSR lance Madame TV, la premi\u00e8re   \u00e9mission faite par les femmes pour les femmes. Pour quelle fonction \u00e9tait plus connue sa productrice?",
+      "answers": [
+        {
+          "text": "Speakerine",
+          "isCorrect": true
+        },
+        {
+          "text": "Miss Suisse",
+          "isCorrect": false
+        },
+        {
+          "text": "Actrice",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Au cou de quelle conseill\u00e8re f\u00e9d\u00e9rale s'est jet\u00e9 Simon Ammann le m\u00e9daill\u00e9 d'or des JO de Vancouver, diffus\u00e9s par la RTS en 2010  ?   Au cou de quelle conseill\u00e8re f\u00e9d\u00e9rale s'est jet\u00e9 Simon Ammann, fraichement m\u00e9daill\u00e9 d'or, lors d'un interview de la RTS aux JO de Vancouver?",
+      "answers": [
+        {
+          "text": "Doris Leuthard",
+          "isCorrect": true
+        },
+        {
+          "text": "Micheline Calmy-Rey",
+          "isCorrect": false
+        },
+        {
+          "text": "Eveline Widmer-Schlumpf",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle guitariste am\u00e9ricain est film\u00e9 en 1967 par la TSR dans le backstage de Johnny Hallyday ?",
+      "answers": [
+        {
+          "text": "Jimi Hendrix",
+          "isCorrect": true
+        },
+        {
+          "text": "David Gilmour",
+          "isCorrect": false
+        },
+        {
+          "text": "Carlos Santana",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle allocution d'un Pr\u00e9sident de la Conf\u00e9d\u00e9ration a r\u00e9colt\u00e9 des centaines de milliers de vue sur Internet et fait le tour des plus grands medias du monde?",
+      "answers": [
+        {
+          "text": "Johann Schneider-Ammann \u00e0 l'occasion de la journ\u00e9e des malades en mars 2016",
+          "isCorrect": true
+        },
+        {
+          "text": "Ueli Maurer \u00e0 l'occasion de la F\u00eate Nationale du 1er ao\u00fbt 2013",
+          "isCorrect": false
+        },
+        {
+          "text": "Didier Burkhalter \u00e0 l\u2019occasion de la visite officielle de Son Altesse Imp\u00e9riale le Prince h\u00e9ritier Naruhito du Japon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle est la particularit\u00e9 du journaliste sportif Bernard Aeschlimann ?",
+      "answers": [
+        {
+          "text": "C'est un journaliste fictif interpr\u00e9t\u00e9 par Vincent Kucholl dans 120 secondes et 26 Minutes",
+          "isCorrect": true
+        },
+        {
+          "text": "Il est b\u00e8gue sauf lorsqu'il parle dans un micro",
+          "isCorrect": false
+        },
+        {
+          "text": "Il a \u00e9t\u00e9 plusieurs fois champion olympique de tir \u00e0 la carabine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle \u00e9tait l'autre activit\u00e9 de l'ex-directeur des programmes de la t\u00e9l\u00e9vision romande, Raymond Vouillamoz?",
+      "answers": [
+        {
+          "text": "Il \u00e9tait r\u00e9alisateur et cin\u00e9aste",
+          "isCorrect": true
+        },
+        {
+          "text": "Il v\u00e9rifiait les fiches de salaires des employ\u00e9s",
+          "isCorrect": false
+        },
+        {
+          "text": "Il pr\u00e9sentait une \u00e9mission litt\u00e9raire",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "O\u00f9 a \u00e9t\u00e9 organis\u00e9 le vernissage du premier DVD de la Chronique 120 secondes en juin 2012?",
+      "answers": [
+        {
+          "text": "St\u00e8ve Berclaz a invit\u00e9 le public \u00e0 la Grande Maison \u00e0 Savi\u00e8se",
+          "isCorrect": true
+        },
+        {
+          "text": "A l'usine Schaffter Pives en pr\u00e9sence de Gilles Surchat",
+          "isCorrect": false
+        },
+        {
+          "text": "Au studio 15 de la RTS \u00e0 Lausanne en pr\u00e9sence de Vincent Kucholl et Vincent Veillon",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pourquoi Darius Rochebin ne peut-il plus porter des bermudas  pour pr\u00e9senter le 19h30?",
+      "answers": [
+        {
+          "text": "En raison des d\u00e9cors actuels du t\u00e9l\u00e9journal",
+          "isCorrect": true
+        },
+        {
+          "text": "En raison d\u2019une remontrance de la direction",
+          "isCorrect": false
+        },
+        {
+          "text": "En raison de la climatisation extr\u00eame du studio",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Qu'a laiss\u00e9 faire d'\u00e9tonnant Vincent Veillon sur le plateau du 26 Minutes sp\u00e9cial foot le 4 juin 2016?",
+      "answers": [
+        {
+          "text": "Deux invit\u00e9s lui ont ras\u00e9 le cr\u00e2ne",
+          "isCorrect": true
+        },
+        {
+          "text": "Michel Pont s'est f\u00e9licit\u00e9 du futur passage des Suisses en huiti\u00e8me de finale en dansant sur la table",
+          "isCorrect": false
+        },
+        {
+          "text": "Christian Constantin a pris sa place et assur\u00e9 la pr\u00e9sentation des cinq derni\u00e8res minutes d'\u00e9mission",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dans les Babibouchettes,  Albert le Vert est accompagn\u00e9 du Facteur...?",
+      "answers": [
+        {
+          "text": "Hyacinthe",
+          "isCorrect": true
+        },
+        {
+          "text": "Gentiane",
+          "isCorrect": false
+        },
+        {
+          "text": "Bleuet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Lors de quel grand \u00e9v\u00e9nement sportif la RTS a diffus\u00e9 en format 16/9 ?",
+      "answers": [
+        {
+          "text": "Coupe du monde 2006",
+          "isCorrect": true
+        },
+        {
+          "text": "JO P\u00e9kin 2008",
+          "isCorrect": false
+        },
+        {
+          "text": "Euro 2004",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel personnage insolite a \u00e9t\u00e9 retrouv\u00e9 par un journaliste RTS \u00e0 Val d'Is\u00e8re lors des championnats du monde de ski alpin?",
+      "answers": [
+        {
+          "text": "Un moniteur de ski du film \"Les Bronz\u00e9s font du ski",
+          "isCorrect": true
+        },
+        {
+          "text": "Un Y\u00e9ti",
+          "isCorrect": false
+        },
+        {
+          "text": "Thierry Lhermitte",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel sport de comp\u00e9tition pratiquait une des premi\u00e8res journalistes sportives femme de la RTS, Isabelle Nussbaum?",
+      "answers": [
+        {
+          "text": "Escrime",
+          "isCorrect": true
+        },
+        {
+          "text": "Tir \u00e0 l'arc",
+          "isCorrect": false
+        },
+        {
+          "text": "Rallye automobile",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel fut le ma\u00eetre-mot du pr\u00e9sident de la Conf\u00e9d\u00e9ration Adolf Ogi lors des v\u0153ux de l'an 2000 \u00e0 Kandersteg ?",
+      "answers": [
+        {
+          "text": "Formidable",
+          "isCorrect": true
+        },
+        {
+          "text": "Wunderbar",
+          "isCorrect": false
+        },
+        {
+          "text": "Fantastique",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dans quelle \u00e9mission de la RTS est apparu pour la premi\u00e8re fois l'humoriste genevois Pierre Naftule ?",
+      "answers": [
+        {
+          "text": "La Course autour du monde",
+          "isCorrect": true
+        },
+        {
+          "text": "Podium 86",
+          "isCorrect": false
+        },
+        {
+          "text": "Carabine FM",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle \u00e9mission de d\u00e9bats a succ\u00e9d\u00e9 \u00e0 Table ouverte en 1996?",
+      "answers": [
+        {
+          "text": "Droit de cit\u00e9",
+          "isCorrect": true
+        },
+        {
+          "text": "Arena",
+          "isCorrect": false
+        },
+        {
+          "text": "Infrarouge",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A quelle heure le 12h30 est-il diffus\u00e9 sur Espace 2 ?",
+      "answers": [
+        {
+          "text": "13h00",
+          "isCorrect": true
+        },
+        {
+          "text": "12h30",
+          "isCorrect": false
+        },
+        {
+          "text": "12h40",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "O\u00f9 a \u00e9t\u00e9 construit le premier \u00e9metteur national suisse de radiodiffusion ?",
+      "answers": [
+        {
+          "text": "Sottens",
+          "isCorrect": true
+        },
+        {
+          "text": "La D\u00f4le",
+          "isCorrect": false
+        },
+        {
+          "text": "Lausanne",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel programme sp\u00e9cial est diffus\u00e9 chaque dimanche sur RTS Deux ?",
+      "answers": [
+        {
+          "text": "Svizra Rumantscha",
+          "isCorrect": true
+        },
+        {
+          "text": "Faut pas Coire",
+          "isCorrect": false
+        },
+        {
+          "text": "Passaport Svizzer",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Le journaliste Alain Rebetez, connu pour ses mimiques, est aussi\u2026",
+      "answers": [
+        {
+          "text": "Correspondant \u00e0 Berne",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Monsieur m\u00e9t\u00e9o le plus connu de Suisse",
+          "isCorrect": false
+        },
+        {
+          "text": "D\u00e9put\u00e9 au Conseil national",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel est l'invit\u00e9 extraordinaire que Darius Rochebin a pu interviewer en juillet 2015?",
+      "answers": [
+        {
+          "text": "Vladimir Poutine",
+          "isCorrect": true
+        },
+        {
+          "text": "Joseph Blatter",
+          "isCorrect": false
+        },
+        {
+          "text": "Barack Obama",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En juin 2016, quelle vid\u00e9o publi\u00e9e par la RTS a battu des records d'audience sur Facebook?",
+      "answers": [
+        {
+          "text": "Le dernier discours de Barack Obama au d\u00eener des correspondants",
+          "isCorrect": true
+        },
+        {
+          "text": "La pr\u00e9sentation d'un \"arbre \u00e0 vent\" \u00e0 Gen\u00e8ve",
+          "isCorrect": false
+        },
+        {
+          "text": "Le fou-rire de G\u00e9raldine Savary au Conseil des Etats",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel est le point commun entre les \u00e9missions suivantes: \"Continents sans Visa\", \"Panorama\" et \"Cinq colonnes \u00e0 la Une\" ?",
+      "answers": [
+        {
+          "text": "Ce sont des magazines d'information.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ce sont des magazines d'information diffus\u00e9s sur la TSR.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ce sont des magazines d'information suisse.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Le film d'animation Ma vie de courgetter\u00e9alis\u00e9 par Claude Barras et coproduit par la RTS a connu un grand succ\u00e8s lors du Festival de Cannes 2016. Quelle est sa particularit\u00e9 ?",
+      "answers": [
+        {
+          "text": "le film est r\u00e9alis\u00e9 en stop-motion.",
+          "isCorrect": true
+        },
+        {
+          "text": "Il s'agit d'un film en r\u00e9alit\u00e9 virtuelle.",
+          "isCorrect": false
+        },
+        {
+          "text": "Il s'agit d'un film en r\u00e9alit\u00e9 augment\u00e9e.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Que signifie l'acronyme VR ?",
+      "answers": [
+        {
+          "text": "R\u00e9alit\u00e9 virtuelle (Virtual Reality)",
+          "isCorrect": true
+        },
+        {
+          "text": "Voie radiophonique",
+          "isCorrect": false
+        },
+        {
+          "text": "Visio-radiodiffusion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel est le nom de l'application RTS permettant de visionner les cha\u00eenes tv et radio sur tablettes et smarphones ?",
+      "answers": [
+        {
+          "text": "Play RTS",
+          "isCorrect": true
+        },
+        {
+          "text": "RTS Replay",
+          "isCorrect": false
+        },
+        {
+          "text": "RTS Pluzz",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Le 26 juin 2016, Darius Rochebin re\u00e7oit dans Pardonnez-moi Jean Plantu et Patrick Chapatte. Qui sont-ils ?",
+      "answers": [
+        {
+          "text": "Des dessinateurs de presse",
+          "isCorrect": true
+        },
+        {
+          "text": "Des journalistes de presse",
+          "isCorrect": false
+        },
+        {
+          "text": "Des dessinateurs de BD",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1922, le contenu des toutes premi\u00e8res \u00e9missions de radio est technique et s'adresse \u00e0 un public bien pr\u00e9cis. Lequel?",
+      "answers": [
+        {
+          "text": "Les aviateurs",
+          "isCorrect": true
+        },
+        {
+          "text": "Les agriculteurs",
+          "isCorrect": false
+        },
+        {
+          "text": "Les militaires",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1934, \"la guerre des orchestres\" oppose les studios de Radio-Gen\u00e8ve et Radio-Lausanne. Quelle est la nature de ce conflit?",
+      "answers": [
+        {
+          "text": "Il s'agit de d\u00e9cider du lieu de r\u00e9sidence de l'Orchestre de la Radio Suisse Romande",
+          "isCorrect": true
+        },
+        {
+          "text": "Chacun des deux studios veut poss\u00e9der un plus grand orchestre que l'autre",
+          "isCorrect": false
+        },
+        {
+          "text": "Chacun des deux studios s'engage dans une surench\u00e8re des cachets propos\u00e9s aux musiciens de studio",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "La r\u00e9daction multim\u00e9dia de la RTS produit des contenus pour de nombreux types de supports. Lequel n'en fait toutefois par partie?",
+      "answers": [
+        {
+          "text": "Le support papier",
+          "isCorrect": true
+        },
+        {
+          "text": "Lecteur MP3",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Teletext",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sous quel format TV, aujourd'hui disparu, l\u2019historien Henri Guillemin a-t-il cont\u00e9 l'Histoire de France?",
+      "answers": [
+        {
+          "text": "La conf\u00e9rence t\u00e9l\u00e9vis\u00e9e",
+          "isCorrect": true
+        },
+        {
+          "text": "Le dialogue",
+          "isCorrect": false
+        },
+        {
+          "text": "Les mimes",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "De quelle collection sonore romande la RTS peut-elle s'enorgueillir ?",
+      "answers": [
+        {
+          "text": "Les sons de tous les carillons de Suisse romande",
+          "isCorrect": true
+        },
+        {
+          "text": "Les sons des rivi\u00e8res romandes",
+          "isCorrect": false
+        },
+        {
+          "text": "Les sons des alertes de sir\u00e8nes",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle \u00e9mission r\u00e9alise presque syst\u00e9matiquement les meilleurs scores d'audience sur la RTS?",
+      "answers": [
+        {
+          "text": "La m\u00e9t\u00e9o qui suit le 19:30",
+          "isCorrect": true
+        },
+        {
+          "text": "A bon entendeur",
+          "isCorrect": false
+        },
+        {
+          "text": "Le 19:30",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Qu'est-ce qui est appel\u00e9 'Le pirate' en gestion d'antenne TV?",
+      "answers": [
+        {
+          "text": "Le logo de la cha\u00eene RTS Un ou RTS Deux, qui se trouve en g\u00e9n\u00e9ral en haut \u00e0 droite de l'\u00e9cran",
+          "isCorrect": true
+        },
+        {
+          "text": "Une personne qui passe de mani\u00e8re inattendue devant une cam\u00e9ra \u00e0 l'antenne",
+          "isCorrect": false
+        },
+        {
+          "text": "Une personne qui capte le signale de la TV sans payer la redevance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Qu'est-ce qu'on appelle un mouchard en TV?",
+      "answers": [
+        {
+          "text": "Un enregsitrement permanent des \u00e9missions diffus\u00e9es \u00e0 l'antenne",
+          "isCorrect": true
+        },
+        {
+          "text": "Le texte d'un journaliste qui a \u00e9t\u00e9 copi\u00e9 sur une autre \u00e9dition du journal",
+          "isCorrect": false
+        },
+        {
+          "text": "Le papier que les pr\u00e9sentateurs ont \u00e0 la main durant les \u00e9missions, afin de se souvenir de leur texte",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A quel journaliste de la RTS correspond le pseudonyme Fr\u00e9d\u00e9ric Charles\u00a0quand il intervient pour Radio France ou la RTBF?",
+      "answers": [
+        {
+          "text": "Georges Baumgartner",
+          "isCorrect": true
+        },
+        {
+          "text": "Jo\u00ebl Robert",
+          "isCorrect": false
+        },
+        {
+          "text": "Georges Pop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel ancien conseiller f\u00e9d\u00e9ral a aussi travaill\u00e9 \u00e0 la RSR?",
+      "answers": [
+        {
+          "text": "Pascal Couchepin",
+          "isCorrect": true
+        },
+        {
+          "text": "Jean-Pascal Delamuraz",
+          "isCorrect": false
+        },
+        {
+          "text": "Joseph Deiss",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel animateur de La 1\u00e8re a montr\u00e9 ses fesses dans un film de Lionel Baier?",
+      "answers": [
+        {
+          "text": "Patrick Lapp",
+          "isCorrect": true
+        },
+        {
+          "text": "Patrick Dujani",
+          "isCorrect": false
+        },
+        {
+          "text": "Jean-Marc Richard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sur quel m\u00e9dia a \u00e9t\u00e9 diffus\u00e9e la s\u00e9rie Bip\u00e8des ?",
+      "answers": [
+        {
+          "text": "Sur le web",
+          "isCorrect": true
+        },
+        {
+          "text": "A la t\u00e9l\u00e9vision",
+          "isCorrect": false
+        },
+        {
+          "text": "A la radio",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Il a \u00e9t\u00e9 collaborateur de la RSR, puis conseiller national PLR vaudois. Qui est-ce?",
+      "answers": [
+        {
+          "text": "Fathi Derder",
+          "isCorrect": true
+        },
+        {
+          "text": "Jean-Charles Simon",
+          "isCorrect": false
+        },
+        {
+          "text": "Jacques Nicolet",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel ancien conseiller national a \u00e9t\u00e9 producteur d\u2019A Bon Entendeur et chroniqueur \u00e0 la radio\u00a0?",
+      "answers": [
+        {
+          "text": "Jacques Neirynck",
+          "isCorrect": true
+        },
+        {
+          "text": "Mario Fossati",
+          "isCorrect": false
+        },
+        {
+          "text": "Luc Mariot",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pourquoi y a-t-il fr\u00e9quemment un tapis dans les \u00e9missions de radio\u00a0?",
+      "answers": [
+        {
+          "text": "Pour conclure une \u00e9mission",
+          "isCorrect": true
+        },
+        {
+          "text": "Pour assurer un son de qualit\u00e9",
+          "isCorrect": false
+        },
+        {
+          "text": "Pour s\u2019essuyer les pieds avant d\u2019entrer dans le studio",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dans l'\u00e9mission \"Les Z\u00e8bres\" de JM Richard, Jo\u00ebl Cruchaud r\u00e9pondait aux questions des auditeurs en culottes courtes. Sous quel pseudonyme?",
+      "answers": [
+        {
+          "text": "Professeur Maboule",
+          "isCorrect": true
+        },
+        {
+          "text": "Docteur Quiz",
+          "isCorrect": false
+        },
+        {
+          "text": "Monsieur Jesaistout",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dans les bras de quel arbre Sonia Zoran a-t-elle propos\u00e9 une \u00e9mission d\u00e8s 2010?",
+      "answers": [
+        {
+          "text": "Le figuier",
+          "isCorrect": true
+        },
+        {
+          "text": "Le ch\u00eane",
+          "isCorrect": false
+        },
+        {
+          "text": "Le bamian",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel est le nom du jeu qui \u00e9tait propos\u00e9 par les t\u00e9l\u00e9visions publiques francophoes et dont Michel D\u00e9n\u00e9riaz \u00e9tait le repr\u00e9sentant suisse?",
+      "answers": [
+        {
+          "text": "Le Francophonissime",
+          "isCorrect": true
+        },
+        {
+          "text": "La Course Autour du Monde",
+          "isCorrect": false
+        },
+        {
+          "text": "Jeux Sans Fronti\u00e8res",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Jean-Luc Henning, \u00e9crivain fran\u00e7ais, a \u00e9t\u00e9 le premier animateur de cette \u00e9mission phare de la radio romande. Laquelle ?",
+      "answers": [
+        {
+          "text": "La Ligne du C\u0153ur",
+          "isCorrect": true
+        },
+        {
+          "text": "On en parle",
+          "isCorrect": false
+        },
+        {
+          "text": "Forum",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Cr\u00e9e en 1999, quelle \u00e9mission quotidienne de RTS La 1\u00e8re aide les auditeurs en parlant des produits de consommation ?",
+      "answers": [
+        {
+          "text": "On en parle",
+          "isCorrect": true
+        },
+        {
+          "text": "A Bon Entendeur",
+          "isCorrect": false
+        },
+        {
+          "text": "Zone Critique",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Oin-Oin est un personnage embl\u00e9matique de l'humour radiophonique romand. Comment s'appelle son ins\u00e9parable comparse?",
+      "answers": [
+        {
+          "text": "Milliquet",
+          "isCorrect": true
+        },
+        {
+          "text": "Riquet",
+          "isCorrect": false
+        },
+        {
+          "text": "Pain-Pain",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Sous quel nom Rodrigo Borgia jou\u00e9 dans la s\u00e9rie Borgia, diffus\u00e9e sur les antennes de la RTS, devient-il pape en 1492 ?",
+      "answers": [
+        {
+          "text": "Alexandre VI",
+          "isCorrect": true
+        },
+        {
+          "text": "Jules II",
+          "isCorrect": false
+        },
+        {
+          "text": "Innocent VIII",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel r\u00e9alisateur et producteur de renomm\u00e9e internationale est \u00e0 l'origine de la s\u00e9rie Lost diffus\u00e9e sur la RTS entre 2005 et 2010 ?",
+      "answers": [
+        {
+          "text": "J.J. Abrams",
+          "isCorrect": true
+        },
+        {
+          "text": "Steven Spielberg",
+          "isCorrect": false
+        },
+        {
+          "text": "John Cameron",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle est la premi\u00e8re r\u00e8gle du Fight Club - dont le film \u00e9ponyme a \u00e9t\u00e9 diffus\u00e9 en 2013 sur la RTS ?",
+      "answers": [
+        {
+          "text": "Il est interdit de parler du fight club.",
+          "isCorrect": true
+        },
+        {
+          "text": "On doit tout le temps parler du fight club.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tous les coups sont permis au fight club.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "La s\u00e9rie Arrow est diffus\u00e9e d\u00e8s 2013 sur la RTS. Quel super-h\u00e9ros Arrow pourrait-il rencontrer dans son univers ?",
+      "answers": [
+        {
+          "text": "Batman",
+          "isCorrect": true
+        },
+        {
+          "text": "Iron-man",
+          "isCorrect": false
+        },
+        {
+          "text": "Captain America",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dans quelle s\u00e9rie d'espionnage diffus\u00e9e sur la RTS rencontre-t-on Carry et Brody?",
+      "answers": [
+        {
+          "text": "Homeland",
+          "isCorrect": true
+        },
+        {
+          "text": "24 heures chrono",
+          "isCorrect": false
+        },
+        {
+          "text": "Mission impossible",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dans quel milieu se d\u00e9roule l'intrigue de la s\u00e9rie Damages diffus\u00e9e entre 2009 et 2015 sur la RTS ?",
+      "answers": [
+        {
+          "text": "Dans un cabinet d'avocat new-yorkais",
+          "isCorrect": true
+        },
+        {
+          "text": "Dans une agence publicitaire",
+          "isCorrect": false
+        },
+        {
+          "text": "Dans la mafia de Chicago",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel film des fr\u00e8res Coen diffus\u00e9 sur la RTS est-il actuellement adapt\u00e9 en s\u00e9rie TV depuis 2014 ?",
+      "answers": [
+        {
+          "text": "Fargo",
+          "isCorrect": true
+        },
+        {
+          "text": "O'Brother",
+          "isCorrect": false
+        },
+        {
+          "text": "The Big Lebowski",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A la suite de quelle r\u00e9v\u00e9lation sur le Pr\u00e9sident de la R\u00e9publique le journaliste suisse Jean-Philippe Schaller a eu sa marionnette aux Guignols de l'Info?",
+      "answers": [
+        {
+          "text": "La s\u00e9lection des employ\u00e9s d'une usine selon leur taille pour ne pas d\u00e9passer celle du Pr\u00e9sident de la R\u00e9publique lors d'un reportage",
+          "isCorrect": true
+        },
+        {
+          "text": "Le salaire mirobolant du coiffeur du Pr\u00e9sident",
+          "isCorrect": false
+        },
+        {
+          "text": "L'intention du Pr\u00e9sident de nommer son fils \u00e0 la t\u00eate de La D\u00e9fense \u00e0 Paris",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Qui fait la voix de Gaspard dans le feuilleton pour enfants Blanche et Gaspard\u00a0?",
+      "answers": [
+        {
+          "text": "Bernard Pichon",
+          "isCorrect": true
+        },
+        {
+          "text": "Henri D\u00e8s",
+          "isCorrect": false
+        },
+        {
+          "text": "St\u00e9phane Laurenceau",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1965, l'ascension de quelle montagne suisse a \u00e9t\u00e9 film\u00e9e en direct par la TSR et largement retransmise en Europe\u00a0?",
+      "answers": [
+        {
+          "text": "Le Cervin",
+          "isCorrect": true
+        },
+        {
+          "text": "La face nord de l\u2019Eiger",
+          "isCorrect": false
+        },
+        {
+          "text": "La Pointe Dufour",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "De quelle \u00e9mission le laur\u00e9at du Grand prix suisse de la musique 2014 a-t-il compos\u00e9 le g\u00e9n\u00e9rique?",
+      "answers": [
+        {
+          "text": "ABE",
+          "isCorrect": true
+        },
+        {
+          "text": "Tout un monde",
+          "isCorrect": false
+        },
+        {
+          "text": "Mise au Point",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel c\u00e9l\u00e8bre chauve a anim\u00e9 A vos lettres entre 1969 et 1980 ?",
+      "answers": [
+        {
+          "text": "Georges Hardy",
+          "isCorrect": true
+        },
+        {
+          "text": "Jean-Marc Richard",
+          "isCorrect": false
+        },
+        {
+          "text": "Telly Savalas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1942, qu'arrive-t-il \u00e0 l'Orchestre de la Radio Suisse Romande?",
+      "answers": [
+        {
+          "text": "Il est remplac\u00e9 par l'Orchestre de Chambre de Lausanne (OCL) que Victor Desarzens cr\u00e9e la m\u00eame ann\u00e9e",
+          "isCorrect": true
+        },
+        {
+          "text": "Il dispara\u00eet \u00e0 cause de la concurrence de l'Orchestre de la Suisse Romande (OSR) dirig\u00e9 par Ernest Ansermet",
+          "isCorrect": false
+        },
+        {
+          "text": "Il est dissout car tous les musiciens sont mobilis\u00e9s sous les drapeaux",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dans l'\u00e9mission Le Plat Du Jour, que donnait Albert Muret pendant la guerre?",
+      "answers": [
+        {
+          "text": "De savoureuses recettes",
+          "isCorrect": true
+        },
+        {
+          "text": "Des nouvelles militaires cod\u00e9es",
+          "isCorrect": false
+        },
+        {
+          "text": "Des interviews au restaurant",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel festival co-cr\u00e9\u00e9 par G\u00e9o Voumard et Claude Nobs a vu le jour en 1967? Le Montreux Jazz Festival a vu le jour en 1967 sous l'impulsion du trio Claude Nobs, Ren\u00e9 Langel et cet ancien producteur de la RSR",
+      "answers": [
+        {
+          "text": "Montreux Jazz Festival  G\u00e9o Voumard",
+          "isCorrect": true
+        },
+        {
+          "text": "Pal\u00e9o Festival Nyon Julien Fran\u00e7ois Zbinden",
+          "isCorrect": false
+        },
+        {
+          "text": "Festi'Neuch Alain Monney",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Le 29 mai 1985 la TSR  \u00e9tait au stade du Heysel lors du drame de la finale de Coupe d'Europe des clubs champions entre Liverpool et La Juventus. Pour quelle raison y \u00e9tait-elle? Pour quelle raison est-ce que la TSR \u00e9tait pr\u00e9sente le 29 mai 1985 au stade du Heysel?",
+      "answers": [
+        {
+          "text": "Temps Pr\u00e9sent r\u00e9alisait un reportage sur les motivations des passionn\u00e9s du football",
+          "isCorrect": true
+        },
+        {
+          "text": "L'\u00e9mission Actualit\u00e9s Sportives r\u00e9alisait un reportage sur les hooligans",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Journal Romand r\u00e9alisait un sujet sur les stades de football dans les capitales",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dans le g\u00e9n\u00e9rique d'une \u00e9mission humoristique de la RTS un singe se d\u00e9place en vespa rouge, de quelle \u00e9mission s'agit-il?",
+      "answers": [
+        {
+          "text": "C'est la jungle",
+          "isCorrect": true
+        },
+        {
+          "text": "Vert pomme",
+          "isCorrect": false
+        },
+        {
+          "text": "Ca colle et c'est piquant",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle nouvelle plateforme web a \u00e9t\u00e9 lanc\u00e9e en mai 2016?",
+      "answers": [
+        {
+          "text": "RTSculture",
+          "isCorrect": true
+        },
+        {
+          "text": "RTSprogrammes",
+          "isCorrect": false
+        },
+        {
+          "text": "RTScuisine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "De quelle mani\u00e8re la TSR a-t-elle particip\u00e9 \u00e0 la r\u00e9alisation du documentaire Le chagrin et la piti\u00e9 de Marcel Oph\u00fcls sur l'occupation allemande de la France pendant la seconde guerre mondiale ?",
+      "answers": [
+        {
+          "text": "Elle a coproduit le film",
+          "isCorrect": true
+        },
+        {
+          "text": "Plusieurs r\u00e9alisateurs de la TSR ont tourn\u00e9 des s\u00e9quences du film.",
+          "isCorrect": false
+        },
+        {
+          "text": "Elle a donn\u00e9 de nombreuses archives.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Le 24 mai 2001, l'\u00e9mission Faxculture pr\u00e9sente un documentaire tourn\u00e9 dans \"Le jardin des tarots\". Sur quel artiste ce documentaire est-il r\u00e9alis\u00e9 ?",
+      "answers": [
+        {
+          "text": "Niki de Saint-Phalle",
+          "isCorrect": true
+        },
+        {
+          "text": "Antoni Gaud\u00ed",
+          "isCorrect": false
+        },
+        {
+          "text": "Jean Tinguely",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 2016, Couleur 3 met en ligne sur sa page Facebook des s\u00e9quences de films \u201csu\u00e9d\u00e9s\u201d. De quel film de Michel Gondry le mot \"su\u00e9der\" prend-il ses origines ?",
+      "answers": [
+        {
+          "text": "Soyez sympas, rembobinons (Be Kind, rewind) o\u00f9 des films cultes sont retourn\u00e9s par le h\u00e9ros avec tr\u00e8s peu de moyens.",
+          "isCorrect": true
+        },
+        {
+          "text": "L'\u00e9cume des jours o\u00f9 la couleur laisse place petit \u00e0 petit au noir et blanc.",
+          "isCorrect": false
+        },
+        {
+          "text": "La science des r\u00eaves dont tous les trucages sont faits maison.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Les chaines Virgin, Europe 1, Gulli, les soci\u00e9t\u00e9s R\u00e9servoir Prod et Endemol appartiennent au groupe m\u00e9dia Lagard\u00e8re dont la principale source de revenus \u00e9tait au d\u00e9part :",
+      "answers": [
+        {
+          "text": "L'a\u00e9ronautique",
+          "isCorrect": true
+        },
+        {
+          "text": "L'armement",
+          "isCorrect": false
+        },
+        {
+          "text": "La construction automobile",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1978 quelle nouveaut\u00e9 technique va donner un peu d'espace aux \u00e9missions de radio de la RSR?",
+      "answers": [
+        {
+          "text": "La st\u00e9r\u00e9ophonie",
+          "isCorrect": true
+        },
+        {
+          "text": "Les interviews en duplex",
+          "isCorrect": false
+        },
+        {
+          "text": "Les premiers correspondants radio \u00e0 l'\u00e9tranger",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En programmation radio, comment est nomm\u00e9e le matin la premi\u00e8re case horaire ?",
+      "answers": [
+        {
+          "text": "La matinale",
+          "isCorrect": true
+        },
+        {
+          "text": "Le 6-9",
+          "isCorrect": false
+        },
+        {
+          "text": "Le 7-9",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1999, la SSR se dote d'un nouveau label: SRG SSR id\u00e9e suisse. Pourquoi \"id\u00e9e suisse\"?",
+      "answers": [
+        {
+          "text": "Le service public est ax\u00e9 sur la r\u00e9alit\u00e9 helv\u00e9tique si diff\u00e9rente de ses voisins",
+          "isCorrect": true
+        },
+        {
+          "text": "Elle ne diffuse que des \u00e9missions r\u00e9alis\u00e9es par des Suisses",
+          "isCorrect": false
+        },
+        {
+          "text": "Parce qu'en Suisse il y a de bonnes id\u00e9es",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 2016, entre 18h00 et 23h00, quel est le pourcentage des t\u00e9l\u00e9spectateurs romands devant RTS Un et RTS Deux ?",
+      "answers": [
+        {
+          "text": "33%",
+          "isCorrect": true
+        },
+        {
+          "text": "67%",
+          "isCorrect": false
+        },
+        {
+          "text": "15%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel est le hobby favori de Simon Matthey-Doret, pr\u00e9sentateur de la matinale sur la 1\u00e8re\u00a0?",
+      "answers": [
+        {
+          "text": "La montagne le v\u00e9lo",
+          "isCorrect": true
+        },
+        {
+          "text": "L'\u00e9quitation",
+          "isCorrect": false
+        },
+        {
+          "text": "La natation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Populaire \u00e0 l'heure actuelle en t\u00e9l\u00e9vision, le th\u00e8me pr\u00e9curseur de l'\u00e9mission radio \"Paris sans le sou\" en 1958 \u00e9tait:",
+      "answers": [
+        {
+          "text": "Voyager avec peu",
+          "isCorrect": true
+        },
+        {
+          "text": "La mendicit\u00e9",
+          "isCorrect": false
+        },
+        {
+          "text": "Artiste de rue",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Qui r\u00e9alise la voix-off de la s\u00e9rie documentaire Apocalypse, la Seconde Guerre mondiale dont tous les \u00e9pisodes ont \u00e9t\u00e9 diffus\u00e9s sur la RTS en 2008 ?",
+      "answers": [
+        {
+          "text": "Mathieu Kassovitz",
+          "isCorrect": true
+        },
+        {
+          "text": "Andr\u00e9 Dussolier",
+          "isCorrect": false
+        },
+        {
+          "text": "Vincent Cassel",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "La r\u00e9daction multim\u00e9dia de la RTS produit des contenus pour de nombreux supports. Lequel n'en fait toutefois pas partie?",
+      "answers": [
+        {
+          "text": "Le journal Teletop Matin",
+          "isCorrect": true
+        },
+        {
+          "text": "RTSinfo en continu",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Teletext",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1963, Jeanne Moreau est interview\u00e9e dans l'\u00e9mission Continents sans visa, \u00e0 l'occasion de la Rose d'Or \u00e0 Montreux. Quelle chanson reprise dans le film Jules et Jim de Fran\u00e7ois Truffaut interpr\u00e8te-t-elle alors ?",
+      "answers": [
+        {
+          "text": "Le tourbillon de la vie",
+          "isCorrect": true
+        },
+        {
+          "text": "J'ai la m\u00e9moire qui flanche",
+          "isCorrect": false
+        },
+        {
+          "text": "Adieu ma vie",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "\u00c0 l'occasion de la sortie en salle du film Quand on a 17 ans d'Andr\u00e9 Techin\u00e9, quel acteur suisse est-il l'invit\u00e9 de Pierre Philippe Cadert dans Vertigo ?",
+      "answers": [
+        {
+          "text": "Kacey Mottet Klein",
+          "isCorrect": true
+        },
+        {
+          "text": "Vincent Perez",
+          "isCorrect": false
+        },
+        {
+          "text": "Lionel Baier",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pour quelle raison le TJ du 21 mars 2013 diffus\u00e9 sur RTS a \u00e9t\u00e9 r\u00e9alis\u00e9 par des journalistes de SRF?",
+      "answers": [
+        {
+          "text": "Pour capter le regard des Al\u00e9maniques sur la Romandie",
+          "isCorrect": true
+        },
+        {
+          "text": "Pour divertir les journalistes al\u00e9maniques",
+          "isCorrect": false
+        },
+        {
+          "text": "Parce qu'ils sont plus comp\u00e9tents que les journalistes romands",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1969, de quel \u00e9v\u00e9nement un journaliste et un r\u00e9alisateur suisses ont pu rendre directement compte, \u00e9tant par hasard sur place?",
+      "answers": [
+        {
+          "text": "L'assassinat de Robert Kennedy",
+          "isCorrect": true
+        },
+        {
+          "text": "L'\u00e9crasement du \"Printemps de Prague",
+          "isCorrect": false
+        },
+        {
+          "text": "La d\u00e9mission du G\u00e9n\u00e9ral de Gaulle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 1922, l'\u00e9metteur de Lausanne est le troisi\u00e8me en Europe. O\u00f9 sont les deux autres?",
+      "answers": [
+        {
+          "text": "Paris et Londres",
+          "isCorrect": true
+        },
+        {
+          "text": "Berlin et Zurich",
+          "isCorrect": false
+        },
+        {
+          "text": "Vienne et Amsterdam",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pour f\u00eater le 100e anniversaire des Forces A\u00e9riennes Suisses, l'Arm\u00e9e a organis\u00e9 un meeting a\u00e9rien \u00e0 Payerne. C'\u00e9tait aussi l'occasion de f\u00eater\u2026",
+      "answers": [
+        {
+          "text": "Les 50 ans de la Patrouille Suisse",
+          "isCorrect": true
+        },
+        {
+          "text": "La collaboration avec l'aviation civile",
+          "isCorrect": false
+        },
+        {
+          "text": "Les 10 ans du dernier grand show a\u00e9rien en Suisse romande, Air04",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Suite \u00e0 quelle r\u00e9v\u00e9lation sur le Pr\u00e9sident de la R\u00e9publique le journaliste suisse Jean-Philippe Schaller a eu sa marionnette aux Guignols de l'Info?",
+      "answers": [
+        {
+          "text": "Des employ\u00e9s d'une usine s\u00e9lectionn\u00e9s selon leur taille pour accueillir le Pr\u00e9sident",
+          "isCorrect": true
+        },
+        {
+          "text": "Le salaire mirobolant du coiffeur du Pr\u00e9sident",
+          "isCorrect": false
+        },
+        {
+          "text": "L'intention du Pr\u00e9sident de nommer son fils \u00e0 la t\u00eate de La D\u00e9fense \u00e0 Paris",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel est le nom du directeur de la TSR qui prit ses fonctions en 2001 ?",
+      "answers": [
+        {
+          "text": "Gilles Marchand",
+          "isCorrect": true
+        },
+        {
+          "text": "Pierre Marchand",
+          "isCorrect": false
+        },
+        {
+          "text": "Guy Marchand",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Combien d'\u00e9tages poss\u00e8de la Tour TV \u00e0 Gen\u00e8ve?  En 1994, pour les 40 ans de la TSR,  une \u00e9norme fresque imagin\u00e9e par un artiste genevois vient garnir la Tour TV. De quel artiste s'agit-il?",
+      "answers": [
+        {
+          "text": "17 Poussin",
+          "isCorrect": true
+        },
+        {
+          "text": "10 Tom Tirabosco",
+          "isCorrect": false
+        },
+        {
+          "text": "25 Zep",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel est le principe de l'\u00e9mission Zone D'Ombre?",
+      "answers": [
+        {
+          "text": "Revenir sur des affaires qui ont d\u00e9fray\u00e9 la chronique",
+          "isCorrect": true
+        },
+        {
+          "text": "Expliquer des ph\u00e9nom\u00e8nes paranormaux",
+          "isCorrect": false
+        },
+        {
+          "text": "Vulgariser l'acc\u00e8s \u00e0 la science",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Qui cuisine aux c\u00f4t\u00e9s d'Annick Jeanmairet lors des derni\u00e8res saisons de Pique-Assiette?",
+      "answers": [
+        {
+          "text": "Des chefs \u00e9toil\u00e9s",
+          "isCorrect": true
+        },
+        {
+          "text": "Des musiciens",
+          "isCorrect": false
+        },
+        {
+          "text": "Des politiciens romands",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Les r\u00e9sultats de quel sport trouve-t-on sur la page 201 du Teletext ?",
+      "answers": [
+        {
+          "text": "Football suisse",
+          "isCorrect": true
+        },
+        {
+          "text": "Tennis",
+          "isCorrect": false
+        },
+        {
+          "text": "Hockey sur glace",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dans les ann\u00e9es 20, \u00e0 la cr\u00e9ation de la radiodiffusion, quel accessoire est indispensable pour pouvoir \u00e9couter sa radio?",
+      "answers": [
+        {
+          "text": "un casque d'\u00e9coute",
+          "isCorrect": true
+        },
+        {
+          "text": "Un pavillon",
+          "isCorrect": false
+        },
+        {
+          "text": "Une dynamo manuelle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Combien co\u00fbte par jour et par m\u00e9nage la redevance pour 17 cha\u00eenes de radio, 7 cha\u00eenes de tv et une large offre sur Internet?\nQuel est le co\u00fbt quotidien par m\u00e9nage, en 2016, de la redevance pour 17 cha\u00eenes de radio, 7 cha\u00eenes TV et une large offre sur Internet?",
+      "answers": [
+        {
+          "text": "CHF 1.10",
+          "isCorrect": true
+        },
+        {
+          "text": "CHF 2.-",
+          "isCorrect": false
+        },
+        {
+          "text": "CHF 1.70",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel changement graphique a \u00e9t\u00e9 effectu\u00e9 le 15 septembre 2016?",
+      "answers": [
+        {
+          "text": "Les quatre logos radio (La Premi\u00e8re, Espace 2, Couleur 3, Option Musique)",
+          "isCorrect": true
+        },
+        {
+          "text": "Les deux logos TV (RTS un & RTS deux)",
+          "isCorrect": false
+        },
+        {
+          "text": "Tous les logos radio et TV",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quels logos ont \u00e9t\u00e9 chang\u00e9s le 29 f\u00e9vrier 2012?",
+      "answers": [
+        {
+          "text": "Les deux logos TV (RTS un & RTS deux)",
+          "isCorrect": true
+        },
+        {
+          "text": "Les deux logos radio La Premi\u00e8re et Espace 2",
+          "isCorrect": false
+        },
+        {
+          "text": "Les quatre logos radio (La Premi\u00e8re, Espace 2, Couleur 3, Option Musique)",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A quelle fr\u00e9quence la Schubertiade d'Espace 2 a lieu ?",
+      "answers": [
+        {
+          "text": "Tous les deux ans",
+          "isCorrect": true
+        },
+        {
+          "text": "Tous les ans",
+          "isCorrect": false
+        },
+        {
+          "text": "Tous les quatre ans",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Combien de m\u00e9tiers diff\u00e9rents demande une \u00e9mission de divertissement TV ? Une \u00e9mission de divertissement TV fait appel \u00e0 de nombreux m\u00e9tiers. Combien selon vous ?",
+      "answers": [
+        {
+          "text": 35,
+          "isCorrect": true
+        },
+        {
+          "text": 25,
+          "isCorrect": false
+        },
+        {
+          "text": 30,
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Durant quel si\u00e8cle quelle \u00e9poque historique se d\u00e9roulent les \u00e9v\u00e8nements racont\u00e9s dans la s\u00e9rie Rome diffus\u00e9e sur la RTS en 2008 et 2009 ?",
+      "answers": [
+        {
+          "text": "Ier si\u00e8cle av. J.-C.\nL'Antiquit\u00e9",
+          "isCorrect": true
+        },
+        {
+          "text": "Ier si\u00e8cle \nLe Moyen \u00c2ge",
+          "isCorrect": false
+        },
+        {
+          "text": "XVIe si\u00e8cle\nLa Renaissance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel est le nom de l\u2019alliance de m\u00e9dias dont fait partie la RTS\u00a0? A l'instar des 73 autres radio/t\u00e9l\u00e9vision de service public provenant de 56 pays, de quel organisation est membre la RTS?",
+      "answers": [
+        {
+          "text": "Union Europ\u00e9enne de Radiodiffusion (UER)",
+          "isCorrect": true
+        },
+        {
+          "text": "UIAM - Union Internationale Alliance M\u00e9dias",
+          "isCorrect": false
+        },
+        {
+          "text": "UIMS -\u00a0Union Intercantonale des M\u00e9dias de Suisse",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "En 2015, le site RTSinfo.ch a int\u00e9gr\u00e9 une nouvelle fonctionnalit\u00e9 pour mieux mettre en valeur les \u00e9missions radio et TV, laquelle? RTSinfo.ch permet d'avoir acc\u00e8s tr\u00e8s rapidement aux documents cit\u00e9s. Par quel moyen ?",
+      "answers": [
+        {
+          "text": "Les audios et vid\u00e9os peuvent \u00eatre lus directement depuis la homepage",
+          "isCorrect": true
+        },
+        {
+          "text": "Les audios et vid\u00e9os sont automatiquement transcris en texte",
+          "isCorrect": false
+        },
+        {
+          "text": "Les audios et vid\u00e9os peuvent \u00eatre jou\u00e9s en acc\u00e9l\u00e9r\u00e9",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Organe consultatif, il a pour t\u00e2che d\u2019assurer des contacts \u00e9troits entre les responsables d\u2019\u00e9missions RTS et les auditeurs et t\u00e9l\u00e9spectateurs.",
+      "answers": [
+        {
+          "text": "Le Conseil du Public",
+          "isCorrect": true
+        },
+        {
+          "text": "Le Conseil de l'Audiovisuel",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Comit\u00e9 de censure",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle star de t\u00e9l\u00e9r\u00e9alit\u00e9 est suivie \u00e0 l'occasion d'un reportage sur le d\u00e9tatouage dans l'\u00e9mission TTC ?",
+      "answers": [
+        {
+          "text": "Nabilla",
+          "isCorrect": true
+        },
+        {
+          "text": "Loana",
+          "isCorrect": false
+        },
+        {
+          "text": "Kim Kardashian",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

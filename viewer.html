@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <style>
+        .floating {
+            display: inline-block;
+            width: 250px;
+            height: 200px;
+        }
+    </style>
+</head>
+<body>
+<div id="main">
+
+</div>
+<script>
+    $(document).ready(function () {
+
+        $.getJSON("data.json", function (data) {
+            data.questions.forEach(function (e) {
+                $("#main").append("<p>" + e.text + "</p>");
+                e.answers.forEach(function (a) {
+
+                    console.log(a);
+                    $("#main").append("<div class='floating'><p>" + a.text + "</p><iframe src='http://tp.srgssr.ch/p/srf/portal?urn=" + a.playUrn + "'></iframe></div>");
+                })
+            });
+        });
+    });
+</script>
+</body>
+</html>

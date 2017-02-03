@@ -241,6 +241,26 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "text": "A partir du 1er janvier 1982, le Téléjournal est diffusé en direct depuis les studios de la télévision à Genève. Depuis quelle ville était-il diffusé auparavant?",
+      "answers": [
+        {
+          "text": "Zürich",
+          "playUrn": "urn:rts:video:8345063",
+          "isCorrect": true
+        },
+        {
+          "text": "Lausanne",
+          "playUrn": "urn:rts:video:55300",
+          "isCorrect": false
+        },
+        {
+          "text": "Sottens",
+          "playUrn": "urn:rts:video:2760213",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }

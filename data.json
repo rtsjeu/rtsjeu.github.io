@@ -161,6 +161,69 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "text": "Le journaliste Xavier Colin est connu pour ses longues heures de direct durant…",
+      "answers": [
+        {
+          "text": "Les attentats du 11 septembre 2001",
+          "playUrn": "urn:rts:video:1531491",
+          "image": "",
+          "isCorrect": true
+        },
+        {
+          "text": "Les attentats de Charlie Hebdo en janvier 2015",
+          "playUrn": "urn:rts:video:6438682",
+          "image": "",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pourquoi les antennes de TV5Monde ont-elles été interrompues dans la nuit du 8 au 9 avril 2015 ?",
+      "answers": [
+        {
+          "text": "Une cyberattaque a eu lieu",
+          "playUrn": "urn:rts:audio:6671302",
+          "image": "",
+          "isCorrect": true
+        },
+        {
+          "text": "Un problème technique est intervenu",
+          "playUrn": "urn:rts:audio:6671302",
+          "image": "",
+          "isCorrect": false
+        },
+        {
+          "text": "Le régisseur s'est endormi",
+          "playUrn": "urn:rts:audio:6671302",
+          "image": "",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle est l'ambiance de la série Station Horizon?",
+      "answers": [
+        {
+          "text": "Country helvétique et parfums d'Amérique",
+          "playUrn": "urn:rts:video:6500397",
+          "image": "",
+          "isCorrect": true
+        },
+        {
+          "text": "Musique classique et châteaux",
+          "playUrn": "urn:rts:video:6500397",
+          "image": "",
+          "isCorrect": false
+        },
+        {
+          "text": "Hip hop et culture de rue",
+          "playUrn": "urn:rts:video:6500397",
+          "image": "",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }

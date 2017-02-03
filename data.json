@@ -281,6 +281,146 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "text": "Quelle émission a montré trois volontaires filmés sous LSD ?",
+      "answers": [
+        {
+          "text": "Continents Sans Visa",
+          "playUrn": "urn:rts:video:5937448",
+          "isCorrect": true
+        },
+        {
+          "text": "Temps Présent",
+          "playUrn": "urn:rts:video:8304164",
+          "isCorrect": false
+        },
+        {
+          "text": "Mise Au Point",
+          "playUrn": "urn:rts:video:8329382",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "L’émission Continents Sans Visa a retracé la première ascension réussie de quelle montagne ?",
+      "answers": [
+        {
+          "text": "La face Nord de l'Eiger",
+          "playUrn": "urn:rts:video:5080752",
+          "isCorrect": true
+        },
+        {
+          "text": "La pointe Dufour",
+          "playUrn": "urn:rts:video:1549326",
+          "isCorrect": false
+        },
+        {
+          "text": "Le Grand Combin",
+          "playUrn": "urn:rts:video:4060702",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Pourquoi l'émission L'opinion De L'homme De La Rue a nécessité l'aide des gendarmes à Nyon en 1940?",
+      "answers": [
+        {
+          "text": "Les gens se battaient pour répondre au micro",
+          "playUrn": "urn:rts:audio:3253573",
+          "isCorrect": true
+        },
+        {
+          "text": "L'animateur était torse-nu",
+          "playUrn": "urn:rts:audio:3253573",
+          "isCorrect": false
+        },
+        {
+          "text": "Des pickpockets profitaient du rassemblement",
+          "playUrn": "urn:rts:audio:3253573",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A partir du 1er janvier 1982, le Téléjournal est diffusé en direct depuis les studios de la télévision à Genève. Depuis quelle ville était-il diffusé auparavant?",
+      "answers": [
+        {
+          "text": "Transmettre la météo aux avions reliant Paris à Lausanne",
+          "playUrn": "urn:rts:video:3453098",
+          "isCorrect": true
+        },
+        {
+          "text": "Pour les transmissions de l'Armée",
+          "playUrn": "urn:rts:video:3453098",
+          "isCorrect": false
+        },
+        {
+          "text": "Pour communiquer avec la France voisine",
+          "playUrn": "urn:rts:video:3453098",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quel métier Marie-Claude Leburgue fut la première femme à exercer dès 1947?",
+      "answers": [
+        {
+          "text": "La première femme radio-reporter",
+          "playUrn": "urn:rts:audio:3305647",
+          "isCorrect": true
+        },
+        {
+          "text": "Chauffeur de cars TV",
+          "playUrn": "urn:rts:audio:3305647",
+          "isCorrect": false
+        },
+        {
+          "text": "Camerawoman",
+          "playUrn": "urn:rts:audio:3305647",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dans l'émission Le Plat Du Jour, que donnait Albert Muret pendant la guerre?",
+      "answers": [
+        {
+          "text": "De savoureuses recettes",
+          "playUrn": "urn:rts:audio:6396122",
+          "isCorrect": true
+        },
+        {
+          "text": "Des nouvelles militaires codées",
+          "playUrn": "urn:rts:video:5304054",
+          "isCorrect": false
+        },
+        {
+          "text": "Des interviews au restaurant",
+          "playUrn": "urn:rts:audio:6256809",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Dans l'émission La Course Autour Du Monde, que devaient livrer chaque semaine les jeunes reporters francophones partis à l'aventure?",
+      "answers": [
+        {
+          "text": "Un reportage exclusif",
+          "playUrn": "urn:rts:video:8314184",
+          "isCorrect": true
+        },
+        {
+          "text": "L'interview du dirigeant du pays visité",
+          "playUrn": "urn:rts:video:8314220",
+          "isCorrect": false
+        },
+        {
+          "text": "Un film documentaire sur le pays",
+          "playUrn": "urn:rts:video:8314209",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }

@@ -73,26 +73,6 @@
       ]
     },
     {
-      "text": "Quelle est la plus jeune chaîne de radio de la RTS, connue pour sa contribution à la promotion des auteurs compositeurs et interprètes suisses ?",
-      "answers": [
-        {
-          "text": "Option musique",
-          "playUrn": "urn:rts:audio:3262364",
-          "isCorrect": true
-        },
-        {
-          "text": "La 1ere",
-          "playUrn": "urn:rts:audio:3262320",
-          "isCorrect": false
-        },
-        {
-          "text": "Espace 2",
-          "playUrn": "urn:rts:audio:3262362",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
       "text": "Quel animateur radio a interprété Mr. Balloon, Maître Cha-Pong ou encore Gilbert, fan de tuning, sur Couleur 3 ?",
       "answers": [
         {

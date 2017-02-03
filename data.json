@@ -261,6 +261,26 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "text": "Quel barrage valaisan a donné lieu à un superbe documentaire réalisé par Claude Goretta?",
+      "answers": [
+        {
+          "text": "La Grande-Dixence",
+          "playUrn": "urn:rts:video:8104971",
+          "isCorrect": true
+        },
+        {
+          "text": "Emosson",
+          "playUrn": "urn:rts:video:3437120",
+          "isCorrect": false
+        },
+        {
+          "text": "Les Trois-Gorges",
+          "playUrn": "urn:rts:video:1567024",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }

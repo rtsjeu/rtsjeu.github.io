@@ -227,7 +227,7 @@
       "answers": [
         {
           "text": "Petit déjeuner",
-          "playurn": "urn:rts:video:7564334",
+          "playUrn": "urn:rts:video:7564334",
           "isCorrect": true
         },
         {

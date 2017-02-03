@@ -23,7 +23,7 @@
       ]
     },
     {
-      "text": "Quelle émission dévoile les coulisses de la RTS ?",
+      "text": "Quelle émission dévoile actuellement les coulisses de la RTS ?",
       "answers": [
         {
           "text": "Interface",
@@ -223,26 +223,6 @@
       ]
     },
     {
-      "text": "De 2000 a 2012, Patrick Ferla recoit a son micro des ecrivains, musiciens et autres personnalités culturelles. Quel est le nom de son émission ?",
-      "answers": [
-        {
-          "text": "Petit déjeuner",
-          "playUrn": "urn:rts:video:7564334",
-          "isCorrect": true
-        },
-        {
-          "text": "Entracte",
-          "playUrn": "urn:rts:video:5836324",
-          "isCorrect": false
-        },
-        {
-          "text": "Entre nous soit dit",
-          "playUrn": "urn:rts:video:5529828",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
       "text": "A partir du 1er janvier 1982, le Téléjournal est diffusé en direct depuis les studios de la télévision à Genève. Depuis quelle ville était-il diffusé auparavant?",
       "answers": [
         {
@@ -338,46 +318,6 @@
         {
           "text": "Des pickpockets profitaient du rassemblement",
           "playUrn": "urn:rts:audio:3253573",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
-      "text": "A partir du 1er janvier 1982, le Téléjournal est diffusé en direct depuis les studios de la télévision à Genève. Depuis quelle ville était-il diffusé auparavant?",
-      "answers": [
-        {
-          "text": "Transmettre la météo aux avions reliant Paris à Lausanne",
-          "playUrn": "urn:rts:video:3453098",
-          "isCorrect": true
-        },
-        {
-          "text": "Pour les transmissions de l'Armée",
-          "playUrn": "urn:rts:video:3453098",
-          "isCorrect": false
-        },
-        {
-          "text": "Pour communiquer avec la France voisine",
-          "playUrn": "urn:rts:video:3453098",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
-      "text": "Quel métier Marie-Claude Leburgue fut la première femme à exercer dès 1947?",
-      "answers": [
-        {
-          "text": "La première femme radio-reporter",
-          "playUrn": "urn:rts:audio:3305647",
-          "isCorrect": true
-        },
-        {
-          "text": "Chauffeur de cars TV",
-          "playUrn": "urn:rts:audio:3305647",
-          "isCorrect": false
-        },
-        {
-          "text": "Camerawoman",
-          "playUrn": "urn:rts:audio:3305647",
           "isCorrect": false
         }
       ]

@@ -66,6 +66,23 @@
       ]
     },
     {
+      "text": "Quelle émission radio d'information et de débat s'est imposée en direct sur La 1ère depuis plus de 20 ans ?",
+      "answers": [
+        {
+          "text": "Forum",
+          "playUrn": "urn:rts:audio:4597711",
+          "image": "",
+          "isCorrect": true
+        },
+        {
+          "text": "On en parle",
+          "playUrn": "urn:rts:audio:8320653",
+          "image": "",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
       "text": "Quelle est la plus jeune chaîne de radio de la RTS, connue pour sa contribution à la promotion des auteurs compositeurs et interprètes suisses?",
       "answers": [
         {

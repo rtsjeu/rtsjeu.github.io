@@ -23,9 +23,9 @@
             data.questions.forEach(function (e) {
                 $("#main").append("<p>" + e.text + "</p>");
                 e.answers.forEach(function (a) {
-
                     console.log(a);
-                    $("#main").append("<div class='floating'><p>" + a.text + "</p><iframe src='//tp.srgssr.ch/p/srf/portal?urn=" + a.playUrn + "'></iframe></div>");
+                    urn = a.playUrn.split(":");
+                    $("#main").append("<div class='floating'><p><a href='http://il.srgssr.ch/integrationlayer/2.0/rts/mediaComposition/" + urn[2] + "/" + urn[3] + ".json" + "'>" + a.text + "</a></p><iframe src='//tp.srgssr.ch/p/srf/portal?urn=" + a.playUrn + "'></iframe></div>");
                 })
             });
         });

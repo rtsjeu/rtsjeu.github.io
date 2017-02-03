@@ -3,13 +3,42 @@
   "name": "lejeu",
   "questions": [
     {
-      "text": "Quelle émission dévoile les coulisses de la RTS ?",
+      "text": "Quelle émission dévoilait les coulisses de la RTS ?",
       "answers": [
         {
           "text": "Grand Angle",
           "playUrn": "urn:rts:video:8231245",
           "image": "",
           "isCorrect": true
+        },
+        {
+          "text": "Interface",
+          "playUrn": "urn:rts:video:8307601",
+          "image": "",
+          "isCorrect": false
+        },
+        {
+          "text": "26 minutes",
+          "playUrn": "urn:rts:video:8233760",
+          "image": "",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Quelle émission dévoile les coulisses de la RTS ?",
+      "answers": [
+        {
+          "text": "Interface",
+          "playUrn": "urn:rts:video:8307601",
+          "image": "",
+          "isCorrect": true
+        },
+        {
+          "text": "Grand Angle",
+          "playUrn": "urn:rts:video:8231245",
+          "image": "",
+          "isCorrect": false
         },
         {
           "text": "26 minutes",
@@ -205,6 +234,27 @@
           "playUrn": "urn:rts:video:6500397",
           "image": "",
           "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "De 2000 a 2012, Patrick Ferla recoit a son micro des ecrivains, musiciens et autres personnalités culturelles. Quel est le nom de son émission?",
+      "answers": [
+        {
+          "text": "Petit déjeuner",
+          "playurn": "urn:rts:video:7564334",
+          "image": "",
+          "isTrue": "true"
+        },
+        {
+          "title": "Entracte",
+          "playurn": "urn:rts:video:5836324",
+          "isTrue": "false"
+        },
+        {
+          "title": "Entre nous soit dit",
+          "playurn": "urn:rts:video:5529828",
+          "isTrue": "false"
         }
       ]
     }

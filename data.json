@@ -259,19 +259,19 @@
       "answers": [
         {
           "text": "Petit déjeuner",
-          "playurn": "urn:rts:video:7564334",
+          "playUrn": "urn:rts:video:7564334",
           "image": "",
-          "isTrue": "true"
+          "isCorrect": true
         },
         {
-          "title": "Entracte",
-          "playurn": "urn:rts:video:5836324",
-          "isTrue": "false"
+          "text": "Entracte",
+          "playUrn": "urn:rts:video:5836324",
+          "isCorrect": false
         },
         {
-          "title": "Entre nous soit dit",
-          "playurn": "urn:rts:video:5529828",
-          "isTrue": "false"
+          "text": "Entre nous soit dit",
+          "playUrn": "urn:rts:video:5529828",
+          "isCorrect": false
         }
       ]
     }

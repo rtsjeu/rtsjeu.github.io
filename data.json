@@ -8,19 +8,16 @@
         {
           "text": "Grand Angle",
           "playUrn": "urn:rts:video:8231245",
-          "image": "",
           "isCorrect": true
         },
         {
           "text": "Interface",
           "playUrn": "urn:rts:video:8307601",
-          "image": "",
           "isCorrect": false
         },
         {
           "text": "26 minutes",
           "playUrn": "urn:rts:video:8233760",
-          "image": "",
           "isCorrect": false
         }
       ]
@@ -31,19 +28,16 @@
         {
           "text": "Interface",
           "playUrn": "urn:rts:video:8307601",
-          "image": "",
           "isCorrect": true
         },
         {
           "text": "Grand Angle",
           "playUrn": "urn:rts:video:8231245",
-          "image": "",
           "isCorrect": false
         },
         {
           "text": "26 minutes",
           "playUrn": "urn:rts:video:8233760",
-          "image": "",
           "isCorrect": false
         }
       ]
@@ -54,13 +48,11 @@
         {
           "text": "Jean-Marc Richard",
           "playUrn": "urn:rts:video:8257191",
-          "image": "",
           "isCorrect": true
         },
         {
           "text": "Lucas Thorens",
           "playUrn": "urn:rts:video:3954296",
-          "image": "",
           "isCorrect": false
         }
       ]
@@ -71,13 +63,11 @@
         {
           "text": "Forum",
           "playUrn": "urn:rts:audio:4597710",
-          "image": "",
           "isCorrect": true
         },
         {
           "text": "On en parle",
           "playUrn": "urn:rts:audio:8320653",
-          "image": "",
           "isCorrect": false
         }
       ]
@@ -88,19 +78,16 @@
         {
           "text": "Option musique",
           "playUrn": "urn:rts:audio:3262364",
-          "image": "",
           "isCorrect": true
         },
         {
           "text": "La 1ere",
           "playUrn": "urn:rts:audio:3262320",
-          "image": "",
           "isCorrect": false
         },
         {
           "text": "Espace 2",
           "playUrn": "urn:rts:audio:3262362",
-          "image": "",
           "isCorrect": false
         }
       ]
@@ -111,19 +98,16 @@
         {
           "text": "Stéphane Laurenceau",
           "playUrn": "urn:rts:video:7646098",
-          "image": "",
           "isCorrect": true
         },
         {
           "text": "Vincent Veillon",
           "playUrn": "urn:rts:video:6099449",
-          "image": "",
           "isCorrect": false
         },
         {
           "text": "Duja",
           "playUrn": "urn:rts:video:6855656",
-          "image": "",
           "isCorrect": false
         }
       ]
@@ -134,19 +118,16 @@
         {
           "text": "Contre-pied",
           "playUrn": "urn:rts:video:7018571",
-          "image": "",
           "isCorrect": true
         },
         {
           "text": "Your Turn",
           "playUrn": "urn:rts:video:8269569",
-          "image": "",
           "isCorrect": false
         },
         {
           "text": "Animalis",
           "playUrn": "urn:rts:video:8113119",
-          "image": "",
           "isCorrect": false
         }
       ]
@@ -157,19 +138,16 @@
         {
           "text": "Massimo Lorenzi",
           "playUrn": "urn:rts:video:7958803",
-          "image": "",
           "isCorrect": true
         },
         {
           "text": "Darius Rochebin",
           "playUrn": "urn:rts:video:8355419",
-          "image": "",
           "isCorrect": false
         },
         {
           "text": "David Rihs",
           "playUrn": "urn:rts:video:47645",
-          "image": "",
           "isCorrect": false
         }
       ]
@@ -180,13 +158,11 @@
         {
           "text": "Top Models",
           "playUrn": "urn:rts:video:8357933",
-          "image": "",
           "isCorrect": true
         },
         {
           "text": "Les feux de l'amour",
           "playUrn": "urn:rts:video:8356919",
-          "image": "",
           "isCorrect": false
         }
       ]
@@ -197,13 +173,11 @@
         {
           "text": "Les attentats du 11 septembre 2001",
           "playUrn": "urn:rts:video:1531491",
-          "image": "",
           "isCorrect": true
         },
         {
           "text": "Les attentats de Charlie Hebdo en janvier 2015",
           "playUrn": "urn:rts:video:6438682",
-          "image": "",
           "isCorrect": false
         }
       ]
@@ -214,19 +188,16 @@
         {
           "text": "Une cyberattaque a eu lieu",
           "playUrn": "urn:rts:audio:6671302",
-          "image": "",
           "isCorrect": true
         },
         {
           "text": "Un problème technique est intervenu",
           "playUrn": "urn:rts:audio:6671302",
-          "image": "",
           "isCorrect": false
         },
         {
           "text": "Le régisseur s'est endormi",
           "playUrn": "urn:rts:audio:6671302",
-          "image": "",
           "isCorrect": false
         }
       ]
@@ -237,19 +208,16 @@
         {
           "text": "Country helvétique et parfums d'Amérique",
           "playUrn": "urn:rts:video:6500397",
-          "image": "",
           "isCorrect": true
         },
         {
           "text": "Musique classique et châteaux",
           "playUrn": "urn:rts:video:6500397",
-          "image": "",
           "isCorrect": false
         },
         {
           "text": "Hip hop et culture de rue",
           "playUrn": "urn:rts:video:6500397",
-          "image": "",
           "isCorrect": false
         }
       ]
@@ -260,7 +228,6 @@
         {
           "text": "Petit déjeuner",
           "playurn": "urn:rts:video:7564334",
-          "image": "",
           "isTrue": "true"
         },
         {
